@@ -5,6 +5,11 @@
     "description": "Tool for probabilistic QoS-assurance and resource consumption estimation of fog application deployments.",
     "repo": "https://github.com/di-unipi-socc/fogtorchpi"
   }, {
+    "name": "FogDirSim",
+    "logo": "http://pages.di.unipi.it/forti/img/logofds.png",
+    "description": "A core API to simulate FogDirector application management.",
+    "repo": "https://github.com/di-unipi-socc/FogDirSim"
+  }, {
     "name": "DockerFinder",
     "logo": "https://raw.githubusercontent.com/di-unipi-socc/DockerFinder/master/docs/DockerFinder-logo.png",
 	"description": "Microservice-based tool for automatically searching for Docker images based on multiple attributes.",
