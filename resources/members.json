@@ -2,31 +2,31 @@
   "members": [{
     "name": "Antonio",
     "surname": "Brogi",
-    "photo": "img/people/brogi.png",
+    "photo": "img/people/brogi.jpg",
     "home": "http://pages.di.unipi.it/brogi",
     "position": "full-professor"
   }, {
     "name": "Ahmad",
     "surname": "Ibrahim",
-    "photo": "img/people/ibrahim.png",
+    "photo": "img/people/ibrahim.jpg",
     "home": "http://pages.di.unipi.it/ibrahim",
     "position": "post-doc"
   }, {
     "name": "Jacopo",
     "surname": "Soldani",
-    "photo": "img/people/soldani.png",
+    "photo": "img/people/soldani.jpg",
     "home": "http://pages.di.unipi.it/soldani",
     "position": "post-doc"
   }, {
     "name": "Stefano",
     "surname": "Forti",
-    "photo": "img/people/forti.png",
+    "photo": "img/people/forti.jpg",
     "home": "http://pages.di.unipi.it/forti",
     "position": "phd-student"
   }, {
     "name": "Davide",
     "surname": "Neri",
-    "photo": "img/people/neri.png",
+    "photo": "img/people/neri.jpg",
     "home": "http://pages.di.unipi.it/neri",
     "position": "phd-student"
   }, {
