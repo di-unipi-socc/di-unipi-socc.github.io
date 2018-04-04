@@ -16,7 +16,7 @@
     "repo": "https://github.com/di-unipi-socc/FogDirSim"
   }, {
     "name": "FogTorchPI",
-    "logo": "http://pages.di.unipi.it/forti/img/logoftpi.png",
+    "logo": "https://raw.githubusercontent.com/di-unipi-socc/FogTorchPI/master/img/logoftpi.PNG",
     "description": "Tool for probabilistic QoS-assurance and resource consumption estimation of fog application deployments.",
     "repo": "https://github.com/di-unipi-socc/fogtorchpi"
   }, {
