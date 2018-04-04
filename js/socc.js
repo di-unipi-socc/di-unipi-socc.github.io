@@ -1,4 +1,4 @@
-(function() {
+(function () {
   loadPeopleFrom();
   loadCollaboratorsFrom();
   loadProjectsFrom();
@@ -6,11 +6,11 @@
 })();
 
 function loadPeopleFrom() {
-  $.getJSON('resources/members.json', function(view) {
-    view.SURNAME = function() {
+  $.getJSON('resources/members.json', function (view) {
+    view.SURNAME = function () {
       return this.surname.toUpperCase();
     };
-    view.role = function() {
+    view.role = function () {
       switch (this.position) {
         case "full-professor":
           return "Full Professor";
@@ -31,8 +31,8 @@ function loadPeopleFrom() {
 }
 
 function loadCollaboratorsFrom() {
-  $.getJSON('resources/collaborators.json', function(view) {
-    view.SURNAME = function() {
+  $.getJSON('resources/collaborators.json', function (view) {
+    view.SURNAME = function () {
       return this.surname.toUpperCase();
     };
     render("#collaborators-content", 'template/collaborators.mst', view);
@@ -40,8 +40,8 @@ function loadCollaboratorsFrom() {
 }
 
 function loadProjectsFrom() {
-  $.getJSON('resources/research-projects.json', function(view) {
-    view.logo = function() {
+  $.getJSON('resources/research-projects.json', function (view) {
+    view.logo = function () {
       switch (this.type) {
         case "eu":
           return "img/projects/eu.png";
@@ -61,18 +61,17 @@ function loadProjectsFrom() {
 
 function loadPrototypesFrom() {
   console.log("in prototypes load function")
-  $.getJSON('resources/prototypes.json', function(view) {
-	console.log("prototypes rendering - start");
+  $.getJSON('resources/prototypes.json', function (view) {
+    console.log("prototypes rendering - start");
     render("#prototypes-content", 'template/prototypes.mst', view);
-	console.log("prototypes rendering - done");
-	console.log(this);
+    console.log("prototypes rendering - done");
   });
 }
 
 function render(target, template_file, view) {
-  $.get(template_file, function(template) {
+  $.get(template_file, function (template) {
     var rendered = Mustache.render(template, view);
-	//console.log(view);
+    //console.log(view);
     $(target).html(rendered);
   });
 }
