@@ -32,11 +32,11 @@
   }, {
     "name": "PASA",
     "description": "Probabilistic analyser of QoS in parallel applications.",
-    "repo": "https://github.com/ahmad1245/PASA"
+    "repo": "https://github.com/di-unipi-socc/PASA"
   }, {
     "name": "PASO",
     "description": "Probabilistic analyser of QoS in service orchestrations.",
-	"repo": "https://github.com/upi-bpel/paso"
+	"repo": "https://github.com/di-unipi-socc/paso"
   }, {
     "name": "Sommelier",
     "description": "Validator for TOSCA application topologies",
