@@ -10,6 +10,11 @@
 	"description": "Microservice-based tool for automatically searching for Docker images based on multiple attributes.",
     "repo": "https://github.com/di-unipi-socc/dockerfinder"
   }, {
+    "name": "DockerAnalyser",
+    "logo": "https://raw.githubusercontent.com/di-unipi-socc/DockerAnalyser/master/data/docs/logo/docker-analyser-logo.png",
+    "description": "Microservice-based tool for building customised analysers of Docker images.",
+    "repo": "https://github.com/di-unipi-socc/dockeranalyser"
+  }, {
     "name": "FogDirSim",
     "logo": "http://pages.di.unipi.it/forti/img/logofds.png",
     "description": "A core API to simulate FogDirector application management.",
