@@ -6,12 +6,6 @@
     "home": "http://pages.di.unipi.it/brogi",
     "position": "full-professor"
   }, {
-    "name": "Ahmad",
-    "surname": "Ibrahim",
-    "photo": "img/people/ibrahim.jpg",
-    "home": "http://pages.di.unipi.it/ibrahim",
-    "position": "post-doc"
-  }, {
     "name": "Jacopo",
     "surname": "Soldani",
     "photo": "img/people/soldani.jpg",
@@ -28,12 +22,6 @@
     "surname": "Neri",
     "photo": "img/people/neri.jpg",
     "home": "http://pages.di.unipi.it/neri",
-    "position": "phd-student"
-  }, {
-    "name": "Luca",
-    "surname": "Rinaldi",
-    "photo": "img/people/rinaldi.jpg",
-    "home": "http://lucar.in",
     "position": "phd-student"
   }]
 }
