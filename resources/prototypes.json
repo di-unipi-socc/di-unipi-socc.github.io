@@ -16,9 +16,14 @@
     "repo": "https://github.com/di-unipi-socc/dockerfinder"
   }, {
     "name": "FogDirSim",
+    "logo": "https://raw.githubusercontent.com/di-unipi-socc/FogDirSim/master/docs/img/logo.png",
+    "description": "A simulation environment of CISCO FogDirector application management.",
+    "repo": "https://github.com/di-unipi-socc/FogDirSim"
+  }, {
+    "name": "FogDirMime",
     "logo": "http://pages.di.unipi.it/forti/img/logofds.png",
     "description": "A core API to simulate FogDirector application management.",
-    "repo": "https://github.com/di-unipi-socc/FogDirSim"
+    "repo": "https://github.com/di-unipi-socc/FogDirMime"
   }, {
     "name": "FogTorchPI",
     "logo": "https://raw.githubusercontent.com/di-unipi-socc/FogTorchPI/master/img/logoftpi.PNG",
