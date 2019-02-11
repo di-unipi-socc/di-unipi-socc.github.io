@@ -6,7 +6,7 @@
     "repo": "https://github.com/di-unipi-socc/barrel"
   }, {
     "name": "DockerAnalyser",
-    "logo": "https://raw.githubusercontent.com/di-unipi-socc/DockerAnalyser/master/data/docs/logo/docker-analyser-logo.png",
+    "logo": "https://github.com/di-unipi-socc/DockerAnalyser/blob/master/dockeranalyser/data/docs/logo/docker-analyser-logo.png?raw=true",
     "description": "Microservice-based tool for building customised analysers of Docker images.",
     "repo": "https://github.com/di-unipi-socc/dockeranalyser"
   }, {
