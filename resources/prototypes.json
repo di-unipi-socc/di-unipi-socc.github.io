@@ -19,7 +19,7 @@
     "logo": "https://raw.githubusercontent.com/di-unipi-socc/EdgeUsher/master/img/edgeusherlogo.png",
     "description": "A declarative prototype to solve the VNF placement in Cloud-Edge scenarios.",
     "repo": "https://github.com/di-unipi-socc/EdgeUsher"
-  }{
+  }, {
     "name": "FogDirSim",
     "logo": "https://raw.githubusercontent.com/di-unipi-socc/FogDirSim/master/docs/img/logo.png",
     "description": "A simulation environment of CISCO FogDirector application management.",
