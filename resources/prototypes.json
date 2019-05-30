@@ -30,6 +30,11 @@
     "description": "A core API to simulate FogDirector application management.",
     "repo": "https://github.com/di-unipi-socc/FogDirMime"
   }, {
+    "name": "FogMon",
+    "logo": "https://github.com/di-unipi-socc/FogMon/blob/master/img/logofogmon.png?raw=true",
+    "description": "A distributed monitoring tool for Fog infrastructures.",
+    "repo": "https://github.com/di-unipi-socc/FogMon"
+  }, {
     "name": "FogTorchPI",
     "logo": "http://pages.di.unipi.it/forti/img/logoftpi.png",
     "description": "Tool for probabilistic QoS-assurance and resource consumption estimation of fog application deployments.",
