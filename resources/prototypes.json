@@ -21,7 +21,7 @@
     "repo": "https://github.com/di-unipi-socc/EdgeUsher"
   }, {
     "name": "FogDirSim",
-    "logo": "https://raw.githubusercontent.com/di-unipi-socc/FogDirSim/master/docs/img/logo.png",
+    "logo": "https://raw.githubusercontent.com/di-unipi-socc/FogDirSim/old-master/docs/img/logo.png",
     "description": "A simulation environment of CISCO FogDirector application management.",
     "repo": "https://github.com/di-unipi-socc/FogDirSim"
   }, {
