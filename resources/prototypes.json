@@ -19,6 +19,11 @@
     "logo": "https://raw.githubusercontent.com/di-unipi-socc/EdgeUsher/master/img/edgeusherlogo.png",
     "description": "A declarative prototype to solve the VNF placement in Cloud-Edge scenarios.",
     "repo": "https://github.com/di-unipi-socc/EdgeUsher"
+  },{
+    "name": "FogBrain",
+    "logo": "http://pages.di.unipi.it/forti/img/fogbrain.png",
+    "description": "continuous reasoning for managing next-gen distributed applications",
+    "repo": "http://pages.di.unipi.it/forti/fogbrain"
   }, {
     "name": "FogDirSim",
     "logo": "https://raw.githubusercontent.com/di-unipi-socc/FogDirSim/master/docs/img/logo.png",
