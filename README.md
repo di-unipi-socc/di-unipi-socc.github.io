@@ -1,8 +1,12 @@
-# di-unipi-socc.github.io
+# SOCC Research Group website
 
-## Changelog
-#### Sep 6, 2017 (12807c8d02b1d56f03148800d72fe9e385a47b98)
-- Add [mustache](https://github.com/janl/mustache.js) library.
-- Creatae the mustache template for *members*, *collaborators* and *projects* section on the `template` folder.
-- css and html bugfix
-- format code with space instead of tabs
+Jekyll website for the Service-Oriented, Cloud and Fog Computing Research Group at the University of Pisa.
+
+## Local build
+
+```sh
+node _scripts/bib_to_json.js
+bundle exec jekyll serve
+```
+
+Publications are sourced from `_scripts/sync-publications/bibs/bibliography.bib`; the build creates `assets/publications.json` automatically.

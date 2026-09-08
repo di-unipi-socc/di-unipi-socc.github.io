@@ -1,0 +1,82 @@
+- id: antonio-brogi
+  name: Antonio Brogi
+  role: Full Professor
+  group: Faculty
+  homepage: https://pages.di.unipi.it/brogi/
+
+- id: stefano-forti
+  name: Stefano Forti
+  role: Assistant Professor
+  group: Faculty
+  homepage: https://pages.di.unipi.it/forti/
+
+- id: jacopo-soldani
+  name: Jacopo Soldani
+  role: Assistant Professor
+  group: Faculty
+  homepage: https://pages.di.unipi.it/soldani/
+
+- id: ahmad-ibrahim
+  name: Ahmad Ibrahim
+  role: Post-doc Researcher
+  group: Researchers
+
+- id: davide-neri
+  name: Davide Neri
+  role: Post-Doc Researcher
+  group: Researchers
+
+- id: francisco-ponce
+  name: Francisco Ponce
+  role: Research Fellow
+  group: Alumni
+
+- id: jacopo-massa
+  name: Jacopo Massa
+  role: Research Fellow
+  group: Researchers
+  homepage: https://pages.di.unipi.it/massa
+  github: https://github.com/jacopo-massa
+  scholar: https://scholar.google.com/citations?user=tuUxuWUAAAAJ
+  orcid: https://orcid.org/0000-0002-5255-537X
+
+- id: alessandro-bocci
+  name: Alessandro Bocci
+  role: Research Fellow
+  group: Researchers
+
+- id: andrea-canciani
+  name: Andrea Canciani
+  role: PhD Student
+  group: Alumni
+
+- id: giuseppe-bisicchia
+  name: Giuseppe Bisicchia
+  role: Research Fellow
+  group: Researchers
+
+- id: luca-rinaldi
+  name: Luca Rinaldi
+  role: PhD Student
+  group: Alumni
+
+- id: marco-gaglianese
+  name: Marco Gaglianese
+  role: PhD Student
+  group: Alumni
+
+- id: ornela-danushi
+  name: Ornela Danushi
+  role: PhD Student
+  group: Students
+
+- id: marc-orioi
+  name: Marc Orioi
+  role: Collaborator
+  group: Alumni
+
+- id: michela-fazzolari
+  name: Michela Fazzolari
+  role: Post-Doc Researcher
+  group: Alumni
+  homepage: https://www.linkedin.com/in/michelafazzolari

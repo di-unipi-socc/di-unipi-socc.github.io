@@ -1,0 +1,446 @@
+@import "tailwindcss";
+@plugin "tailwind-scrollbar";
+
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+/* ========================================= */
+/*              TEMA UNIPI (Tailwind 4)      */
+/* ========================================= */
+
+@theme {
+  --font-unipi: -apple-system, BlinkMacSystemFont, "Titillium Web";
+
+  /* -------------------- */
+  /* Palette UniPI - Blue */
+  /* -------------------- */
+  --color-unipi-blue-50: #f2f6fb;
+  --color-unipi-blue-100: #e0e8f5;
+  --color-unipi-blue-200: #bccde8;
+  --color-unipi-blue-400: #567fbf;
+  --color-unipi-blue-500: #285da7;
+  --color-unipi-blue-600: #003c71; /* main */
+  --color-unipi-blue-700: #002f59;
+  --color-unipi-blue-800: #002342;
+
+  /* ---------------------- */
+  /* Palette UniPI - Ink    */
+  /* ---------------------- */
+  --color-unipi-ink-50: #f5f6f8;
+  --color-unipi-ink-100: #e3e4e9;
+  --color-unipi-ink-200: #c7cad3;
+  --color-unipi-ink-300: #a0a4b0;
+  --color-unipi-ink-500: #5f616d;
+  --color-unipi-ink-600: #484955;
+  --color-unipi-ink-700: #353640;
+  --color-unipi-ink-800: #23232c;
+  --color-unipi-ink-900: #15161c;
+
+  /* ---------------------- */
+  /* Palette UniPI - Dark   */
+  /* ---------------------- */
+  --color-unipi-night-950: #05080c;
+  --color-unipi-night-900: #08111d;
+  --color-unipi-night-850: #0c1726;
+  --color-unipi-night-800: #102033;
+  --color-unipi-line: #244766;
+  --color-unipi-text: #f7fbff;
+  --color-unipi-muted: #c7d3df;
+  --color-unipi-subtle: #91a5b8;
+  --color-unipi-link: #8cc8ff;
+  --color-unipi-link-hover: #b8ddff;
+  --color-unipi-chip-bg: #0e2a47;
+  --color-unipi-chip-border: #2f6fa3;
+}
+
+/* ========================================= */
+/*                  BASE                     */
+/* ========================================= */
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+    color-scheme: light;
+  }
+
+  html[data-theme="dark"] {
+    color-scheme: dark;
+  }
+
+  body {
+    @apply flex min-h-screen flex-col bg-unipi-ink-50 font-unipi text-unipi-ink-800
+           motion-safe:transition-colors motion-safe:duration-300
+           dark:bg-unipi-night-900 dark:text-unipi-text;
+  }
+
+  a {
+    @apply text-unipi-blue-600 transition-colors
+           hover:text-unipi-blue-500 hover:underline
+           dark:text-unipi-link dark:hover:text-unipi-link-hover;
+  }
+
+  nav a {
+    @apply no-underline hover:no-underline;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-semibold text-unipi-ink-900 dark:text-unipi-text;
+  }
+
+  h1 {
+    @apply text-3xl md:text-4xl;
+  }
+  h2 {
+    @apply text-2xl md:text-3xl;
+  }
+  h3 {
+    @apply text-xl md:text-2xl;
+  }
+
+  span p {
+    @apply text-start wrap-break-word md:text-justify;
+  }
+}
+
+/* ========================================= */
+/*               COMPONENTS                  */
+/* ========================================= */
+
+@layer components {
+  .chevron button {
+    @apply mt-5 inline-flex max-w-full cursor-pointer items-center gap-2 text-sm font-medium text-unipi-blue-700 transition-colors hover:font-semibold hover:text-unipi-blue-500 sm:max-w-75 dark:text-unipi-link dark:hover:text-unipi-link-hover;
+  }
+  .chevron i {
+    @apply text-xs transition-transform;
+  }
+  .chevron div {
+    @apply mt-1 text-sm text-unipi-ink-800 dark:text-unipi-muted;
+  }
+  .date {
+    @apply font-mono text-[11.5px] whitespace-nowrap text-unipi-ink-600 dark:text-unipi-subtle;
+  }
+
+  .header-picture {
+    @apply h-14 w-auto;
+  }
+
+  .card-picture {
+    @apply hidden h-24 w-auto border-r-[0.5px] rounded-xl border-unipi-ink-200 md:block dark:border-unipi-line;
+  }
+
+  .author-avatar {
+    @apply size-24 rounded-2xl lg:rounded-3xl border border-unipi-blue-600 object-cover md:size-32 lg:size-40 xl:size-48 dark:border-unipi-link;
+  }
+
+  .light-only {
+    @apply hidden md:block;
+  }
+
+  /* ---------- Layout base ---------- */
+  .section-unipi {
+    @apply container mx-auto scroll-mt-20 px-4 pt-4;
+  }
+
+  .card-unipi {
+    @apply rounded-2xl border border-unipi-ink-100 bg-white px-5 py-2 shadow-sm dark:border-unipi-line dark:bg-unipi-night-800;
+  }
+
+  .sub-card-unipi {
+    @apply border-2 p-3 py-2;
+  }
+
+  .sub-card-unipi:not(.research-interests) {
+    @apply motion-safe:transition-[transform,box-shadow] motion-safe:duration-200 motion-safe:hover:-translate-y-1 motion-safe:hover:shadow-md motion-safe:focus-within:-translate-y-1 motion-safe:focus-within:shadow-md;
+  }
+
+  .timeline-unipi {
+    @apply grid gap-4;
+  }
+
+  .timeline-entry {
+    @apply relative grid grid-cols-[1rem_minmax(0,1fr)] gap-3;
+  }
+
+  .timeline-entry:not(:last-child)::after {
+    content: "";
+    @apply absolute left-[7px] top-4 h-[calc(100%+1rem)] w-0.5 bg-unipi-ink-200 dark:bg-unipi-line;
+  }
+
+  .timeline-node {
+    @apply relative z-10 mt-2 size-4 rounded-full border-2 border-unipi-blue-600 bg-white transition-colors duration-200 dark:border-unipi-link dark:bg-unipi-night-900;
+  }
+
+  .timeline-entry:hover .timeline-node,
+  .timeline-entry:focus-within .timeline-node {
+    @apply bg-unipi-blue-600 dark:bg-unipi-link;
+  }
+
+  /* ---------- Author info ---------- */
+  .author-info {
+    @apply flex flex-col items-center gap-y-1 md:items-start md:gap-y-0;
+  }
+
+  .author-info .name {
+    @apply mb-1 text-2xl font-semibold tracking-tight md:text-3xl;
+  }
+
+  .author-info .role {
+    @apply text-xs font-light tracking-tight text-unipi-ink-600 sm:text-sm dark:text-unipi-subtle;
+  }
+
+  .author-info .affiliation {
+    @apply mt-1 inline-flex items-center gap-1 text-xs font-light text-unipi-ink-600 sm:text-sm dark:text-unipi-subtle;
+  }
+
+  /* ---------- Author bio ---------- */
+  .author-bio {
+    @apply mt-4;
+  }
+
+  .author-bio p {
+    @apply mt-4 text-justify text-sm leading-relaxed;
+  }
+
+  /* ---------- Nav ---------- */
+  .nav-unipi {
+    @apply border-b border-unipi-ink-200 bg-unipi-ink-50/80 shadow-sm backdrop-blur dark:border-unipi-line dark:bg-unipi-night-950/90;
+  }
+
+  .nav-link {
+    @apply py-1 text-unipi-blue-600 transition-colors hover:font-semibold hover:text-unipi-blue-600 dark:text-unipi-muted dark:hover:text-unipi-link-hover;
+  }
+
+  .nav-actions {
+    @apply flex items-center gap-0.5 rounded-full border border-unipi-blue-200 bg-white/80 p-1 shadow-sm backdrop-blur dark:border-unipi-line dark:bg-unipi-night-850;
+  }
+
+  .nav-action {
+    @apply inline-flex size-8 cursor-pointer items-center justify-center rounded-full text-unipi-blue-700 transition-all duration-200 hover:bg-unipi-blue-600 hover:text-white hover:shadow-sm focus-visible:ring-2 focus-visible:ring-unipi-blue-400 focus-visible:ring-offset-2 focus-visible:outline-none dark:text-unipi-muted dark:hover:bg-unipi-blue-500 dark:hover:text-white dark:focus-visible:ring-offset-unipi-night-950;
+  }
+
+  .language-toggle {
+    @apply w-auto gap-1.5 px-2.5 text-[0.65rem] font-bold tracking-[0.12em];
+  }
+
+  /* ---------- Contacts ---------- */
+  .contacts-unipi {
+    @apply flex flex-col items-start space-y-2 p-4 text-sm;
+  }
+
+  .contacts-unipi p {
+    @apply flex items-center gap-2 text-unipi-ink-800 dark:text-unipi-muted;
+  }
+
+  .contacts-unipi h3 {
+    @apply mb-3 text-sm font-semibold text-unipi-ink-900 dark:text-unipi-text;
+  }
+
+  /* ---------- Titles ---------- */
+  .section-title-unipi {
+    @apply my-5 flex items-center gap-2;
+  }
+
+  .section-title-unipi h2 {
+    @apply font-semibold tracking-[-.01em] text-unipi-blue-600 dark:text-unipi-link;
+  }
+
+  .section-title-unipi i {
+    @apply text-lg;
+  }
+
+  .section-title-unipi .divider {
+    @apply ms-3 h-px flex-1 bg-unipi-ink-100 dark:bg-unipi-line;
+  }
+
+  /* ---------- Tabs ---------- */
+
+  .card-unipi-tabs {
+    @apply overflow-hidden;
+  }
+  .card-unipi-tabs .tab-strip {
+    @apply border-b border-unipi-ink-100 px-4 dark:border-unipi-line;
+  }
+
+  .card-unipi-tabs .tab-strip .chevron {
+    @apply flex cursor-pointer items-center justify-center rounded-full p-1 
+             text-unipi-blue-800 hover:text-unipi-blue-600
+             disabled:pointer-events-none disabled:hidden
+            sm:hidden dark:text-unipi-muted dark:hover:text-unipi-link-hover;
+  }
+
+  .card-unipi-tabs .tab-strip button[data-tab] {
+    @apply inline-flex cursor-pointer items-center gap-2 border-b-2
+           border-transparent py-2.5 leading-tight
+           text-unipi-ink-600 transition-colors
+           hover:text-unipi-blue-600 dark:text-unipi-subtle
+           dark:hover:text-unipi-link-hover;
+  }
+
+  .card-unipi-tabs .tab-strip button.selected[data-tab] {
+    @apply border-unipi-blue-600 font-semibold text-unipi-blue-600
+           dark:border-unipi-link dark:text-unipi-link;
+  }
+
+  .card-unipi-tabs .panels {
+    @apply p-4;
+  }
+
+  .sub-card-unipi .description,
+  .card-unipi .description {
+    @apply my-2 rounded-lg border border-unipi-blue-200 bg-unipi-blue-50 p-3 text-justify text-xs leading-4 text-unipi-blue-700 dark:border-unipi-chip-border dark:bg-unipi-chip-bg dark:text-unipi-text;
+  }
+
+  .card-unipi .tags {
+    @apply mt-1 flex flex-col items-end gap-1;
+  }
+
+  .card-unipi .summary {
+    @apply mt-2 text-xs leading-4 text-unipi-ink-700 dark:text-unipi-muted;
+  }
+  .card-unipi .summary .label {
+    @apply font-semibold;
+  }
+
+  .card-unipi .caption {
+    @apply text-[11px] text-unipi-ink-600 dark:text-unipi-subtle;
+  }
+
+  /* ---------- Badge ---------- */
+  .badge-soft {
+    @apply inline-flex items-center rounded-full border border-unipi-ink-200 bg-unipi-ink-50 px-2
+           py-0.5 text-[10px] text-unipi-ink-700
+           dark:border-unipi-line dark:bg-unipi-night-850 dark:text-unipi-muted;
+  }
+
+  .badge-unipi {
+    @apply inline-flex items-center rounded-full border border-unipi-blue-200 bg-unipi-blue-50
+           px-2 py-0.5 text-[11px] text-unipi-blue-700
+           dark:border-unipi-chip-border dark:bg-unipi-chip-bg dark:text-unipi-link-hover;
+  }
+
+  .badge-ghost {
+    @apply inline-flex items-center gap-1 rounded-full border px-2 py-0.5
+          text-[11px] text-unipi-blue-600 transition-colors
+            dark:text-unipi-link;
+  }
+
+  .research-interest {
+    @apply cursor-default hover:bg-unipi-blue-100 focus:bg-unipi-blue-100 focus:outline-none dark:hover:bg-unipi-night-850 dark:focus:bg-unipi-night-850;
+  }
+
+  a.badge-unipi,
+  button.badge-unipi {
+    @apply cursor-pointer hover:bg-unipi-blue-100 dark:hover:bg-unipi-night-850;
+  }
+
+  a.badge-ghost,
+  button.badge-ghost {
+    @apply cursor-pointer hover:text-unipi-blue-400 dark:hover:text-unipi-link-hover;
+  }
+
+  /* ---------- Icon hover zoom ---------- */
+  .icon-zoom {
+    @apply transition-all hover:scale-120;
+  }
+
+  /* iframe map */
+  .iframe-map {
+    @apply h-64 w-full rounded-lg border-0;
+  }
+}
+
+/* ========================================= */
+/*                 TABLES                    */
+/* ========================================= */
+
+.table-unipi {
+  @apply overflow-hidden border-2 p-0;
+}
+
+.tr-unipi {
+  @apply border-b border-unipi-ink-200 bg-unipi-blue-50;
+  @apply dark:border-unipi-line dark:bg-unipi-night-850;
+}
+
+.th-unipi {
+  @apply px-4 py-2 text-left font-semibold text-unipi-ink-800 dark:text-unipi-muted;
+}
+
+.tbody-unipi {
+  @apply divide-y divide-unipi-ink-200 dark:divide-unipi-line;
+}
+
+.tbody-unipi tr {
+  @apply transition-colors hover:bg-unipi-ink-50 dark:hover:bg-unipi-night-850;
+}
+
+/* ========================================= */
+/*        DBLP / PUBLICATION BADGES         */
+/* ========================================= */
+
+.pub-search {
+  @apply w-full md:w-72 xl:w-80 rounded-xl px-3 py-2 text-xs border;
+  @apply border-unipi-ink-200 bg-white  text-unipi-ink-800 placeholder:text-unipi-ink-500;
+  @apply dark:border-unipi-line dark:bg-unipi-night-800 dark:text-unipi-text dark:placeholder:text-unipi-subtle;
+}
+
+.pub-filter {
+  @apply rounded-xl border px-3 pb-1.5 h-6 text-xs;
+  @apply border-unipi-ink-200 bg-white text-unipi-ink-800;
+  @apply dark:border-unipi-line dark:bg-unipi-night-800 dark:text-unipi-text;
+}
+
+/* Badge quadrato in lista pub */
+.pub-badge {
+  width: 12px;
+  height: 12px;
+  display: inline-block;
+  border-radius: 2px;
+  margin-top: 4px;
+}
+
+/* Badge piccolo con label (per stats, ecc.) */
+.pub-badge-small {
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 500;
+  color: white;
+}
+
+/* Colori categorie (DBLP scheme) */
+.pub-books {
+  background-color: #f4c542;
+}
+
+.pub-journal {
+  background-color: #a0446a;
+}
+
+.pub-conference {
+  background-color: #436fa9;
+}
+
+.pub-collection {
+  background-color: #f08b2f;
+}
+
+.pub-editorship {
+  background-color: #88c4ac;
+}
+
+.pub-reference {
+  background-color: #b1cb47;
+}
+
+.pub-data {
+  background-color: #7b4f27;
+}
+
+.pub-informal {
+  background-color: #5e5e5e;
+}

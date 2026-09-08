@@ -1,0 +1,60 @@
+---
+layout: default
+title: Publications · SOCC
+description: Publications by the SOCC Research Group.
+permalink: /publications/
+---
+
+<section class="section-unipi py-8">
+  <div class="section-title-unipi">
+    <i class="bi bi-journal-text"></i>
+    <h2>Publications</h2>
+    <div class="divider"></div>
+  </div>
+  <div class="card-unipi p-5">
+    <p class="mb-5 text-sm text-unipi-ink-600 dark:text-unipi-subtle">
+      Please find below a comprehensive list of the publications produced by the
+      SOCC Research Group, following the
+      <a
+        href="https://dblp.org/faq/What+is+the+meaning+of+the+colors+in+the+publication+lists.html"
+        target="_blank"
+        rel="noopener noreferrer"
+        >DBLP color scheme</a
+      >.<br />
+      You can filter the publications by year and type, or search for specific
+      keywords in the title or authors.
+    </p>
+    <div id="pub-filters" class="mb-4 flex flex-col gap-2">
+      <div
+        class="flex flex-col gap-2 md:flex-row md:items-center md:justify-start"
+      >
+        <input
+          id="pub-search"
+          type="search"
+          placeholder="{{ site.data.ui.publications.search }}"
+          class="pub-search"
+        />
+        <div class="flex flex-wrap items-baseline gap-2">
+          <select id="pub-year" class="pub-filter">
+            <option value="">
+              {{ site.data.ui.publications.all_years }}
+            </option></select
+          ><select id="pub-type" class="pub-filter">
+            <option value="">{{ site.data.ui.publications.all_types }}</option>
+            {% for category in site.data.ui.publications.categories %}
+            <option value="{{ category[0] }}">{{ category[1] }}</option>
+            {% endfor %}</select
+          ><button
+            type="button"
+            id="pub-clear"
+            class="badge-ghost text-xs my-3"
+          >
+            {{ site.data.ui.publications.clear }}
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="pub-results" aria-live="polite"></div>
+  </div>
+</section>
+<script src="{{ '/assets/js/publications.js' | relative_url }}"></script>

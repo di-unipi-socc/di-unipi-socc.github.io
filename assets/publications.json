@@ -1,0 +1,4966 @@
+[
+  {
+    "key": "gazza2026constraint-based3",
+    "title": "A Constraint-Based Approach to Optimise QoS- and Energy-Aware Cloud-Edge Application Deployments",
+    "year": "2026",
+    "month": 0,
+    "authors": [
+      "Simone Gazza",
+      "Roberto Amadini",
+      "Antonio Brogi",
+      "Andrea D'Iapico",
+      "Stefano Forti",
+      "Saverio Giallorenzo",
+      "Pierluigi Plebani",
+      "Francisco Ponce",
+      "Jacopo Soldani",
+      "Monica Vitali",
+      "Gianluigi Zavattaro"
+    ],
+    "venue": "ACM Transactions on Internet Technology",
+    "url": "https://doi.org/10.1145/3757061",
+    "type": "journal"
+  },
+  {
+    "key": "ferrante2026overview2",
+    "title": "An Overview of Neuro-Symbolic Frameworks for Software Development",
+    "year": "2026",
+    "month": 0,
+    "authors": [
+      "Luca Ferrante",
+      "Stefano Forti",
+      "Jacopo Soldani"
+    ],
+    "venue": "CEUR Workshop Proceedings",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "massa2026combining3",
+    "title": "Combining declarative and linear programming for application management in the cloud-edge continuum",
+    "year": "2026",
+    "month": 0,
+    "authors": [
+      "Jacopo Massa",
+      "Stefano Forti",
+      "Patrizio Dazzi",
+      "Antonio Brogi"
+    ],
+    "venue": "Future Generation Computer Systems",
+    "url": "https://doi.org/10.1016/j.future.2025.108224",
+    "type": "journal"
+  },
+  {
+    "key": "bisicchia2026cut&shoot3",
+    "title": "Cut&Shoot: Distributed Execution of Quantum Circuit Fragments",
+    "year": "2026",
+    "month": 0,
+    "authors": [
+      "Giuseppe Bisicchia",
+      "Alessandro Bocci",
+      "Jose Garcia-Alonso",
+      "Juan M. Murillo",
+      "Antonio Brogi"
+    ],
+    "venue": "IEEE Transactions on Quantum Engineering",
+    "url": "https://doi.org/10.1109/TQE.2026.3675340",
+    "type": "journal"
+  },
+  {
+    "key": "massa2026declarative3",
+    "title": "Declarative traffic engineering for Low-Latency and reliable networking",
+    "year": "2026",
+    "month": 0,
+    "authors": [
+      "Jacopo Massa",
+      "Stefano Forti",
+      "Federica Paganelli",
+      "Patrizio Dazzi",
+      "Antonio Brogi",
+      "Alexander Clemm",
+      "Toerless Eckert"
+    ],
+    "venue": "Future Generation Computer Systems",
+    "url": "https://doi.org/10.1016/j.future.2026.108494",
+    "type": "journal"
+  },
+  {
+    "key": "zisa2026design",
+    "title": "Design Pattern-Based Code Refactoring with LLMs",
+    "year": "2026",
+    "month": 0,
+    "authors": [
+      "Bartolomeo Zisa",
+      "Lucia Passaro",
+      "Jacopo Soldani"
+    ],
+    "venue": "Proceedings - 2026 IEEE International Conference on Software Analysis, Evolution and Reengineering, SANER 2026",
+    "url": "https://doi.org/10.1109/SANER67736.2026.00033",
+    "type": "conference"
+  },
+  {
+    "key": "carlini2026dynamic",
+    "title": "Dynamic workload balancing in decentralized edge systems: A marginal cost approach",
+    "year": "2026",
+    "month": 0,
+    "authors": [
+      "Emanuele Carlini",
+      "Patrizio Dazzi",
+      "Luca Ferrucci",
+      "Jacopo Massa",
+      "Matteo Mordacchini"
+    ],
+    "venue": "Future Generation Computer Systems",
+    "url": "https://doi.org/10.1016/j.future.2025.108167",
+    "type": "journal"
+  },
+  {
+    "key": "massa2026eclypse3",
+    "title": "ECLYPSE: A Python Framework for Simulation and Emulation of the Cloud-Edge Continuum",
+    "year": "2026",
+    "month": 0,
+    "authors": [
+      "Jacopo Massa",
+      "Valerio De Caro",
+      "Stefano Forti",
+      "Patrizio Dazzi",
+      "Davide Bacciu",
+      "Antonio Brogi"
+    ],
+    "venue": "Journal of Software: Evolution and Process",
+    "url": "https://doi.org/10.1002/smr.70081",
+    "type": "journal"
+  },
+  {
+    "key": "angiolini2026engineering3",
+    "title": "Engineering carbon-aware software services",
+    "year": "2026",
+    "month": 0,
+    "authors": [
+      "Marco Angiolini",
+      "Stefano Forti",
+      "Jacopo Soldani",
+      "Antonio Brogi"
+    ],
+    "venue": "Cluster Computing",
+    "url": "https://doi.org/10.1007/s10586-026-06212-8",
+    "type": "journal"
+  },
+  {
+    "key": "soldani2026explainable3",
+    "title": "Explainable Root Cause Analysis for Microservices’ Incomplete Logs",
+    "year": "2026",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Stefano Forti",
+      "Giovanni Cupitò",
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science",
+    "url": "https://doi.org/10.1007/978-3-032-25552-5_1",
+    "type": "journal"
+  },
+  {
+    "key": "ponce2026failure-resilient3",
+    "title": "Failure-resilient and carbon-efficient deployment of microservices over the cloud-edge continuum",
+    "year": "2026",
+    "month": 0,
+    "authors": [
+      "Francisco Ponce",
+      "Simone Gazza",
+      "Andrea D’Iapico",
+      "Roberto Amadini",
+      "Antonio Brogi",
+      "Stefano Forti",
+      "Saverio Giallorenzo",
+      "Pierluigi Plebani",
+      "Davide Usai",
+      "Monica Vitali",
+      "Gianluigi Zavattaro",
+      "Jacopo Soldani"
+    ],
+    "venue": "Cluster Computing",
+    "url": "https://doi.org/10.1007/s10586-026-06520-z",
+    "type": "journal"
+  },
+  {
+    "key": "bisicchia2026maximizing2",
+    "title": "Maximizing quantum hardware utilization via multiprogramming circuits and shot-wise distribution",
+    "year": "2026",
+    "month": 0,
+    "authors": [
+      "Giuseppe Bisicchia",
+      "Jaime Alvarado-Valiente",
+      "Javier Romero-Álvarez",
+      "Jose Garcia-Alonso",
+      "Juan M. Murillo",
+      "Antonio Brogi"
+    ],
+    "venue": "Information and Software Technology",
+    "url": "https://doi.org/10.1016/j.infsof.2025.108005",
+    "type": "journal"
+  },
+  {
+    "key": "cerny2026dependencies",
+    "title": "On Dependencies in Microservices: Dependency Management and Maintainability",
+    "year": "2026",
+    "month": 0,
+    "authors": [
+      "Tomas Cerny",
+      "Md Showkat Hossain Chy",
+      "Md Arfan Uddin",
+      "Amr S. Abdelfattah",
+      "Jacopo Soldani",
+      "Justus Bogner"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-032-17286-0_2",
+    "type": "journal"
+  },
+  {
+    "key": "ali2026preface",
+    "title": "Preface",
+    "year": "2026",
+    "month": 0,
+    "authors": [
+      "Nour Ali",
+      "Vasilios Andrikopoulos",
+      "Cesare Pautasso",
+      "Jacopo Soldani",
+      "Xiwei Xu"
+    ],
+    "venue": "Lecture Notes in Computer Science",
+    "url": "",
+    "type": "journal"
+  },
+  {
+    "key": "aiello2026need",
+    "title": "The Need for a Green ICT Reference Framework",
+    "year": "2026",
+    "month": 0,
+    "authors": [
+      "Marco Aiello",
+      "Mina Alipour",
+      "Antonio Brogi",
+      "Rafael Capilla",
+      "Lidia Fuentes",
+      "Ilche Georgievski",
+      "Gabriele Gianini",
+      "Mahyar Tourchi Moghaddam",
+      "Monica Vitali",
+      "Sebastian Werner"
+    ],
+    "venue": "Proceedings - 2026 IEEE 23rd International Conference on Software Architecture Companion, ICSA-C 2026",
+    "url": "https://doi.org/10.1109/ICSA-C68850.2026.00070",
+    "type": "conference"
+  },
+  {
+    "key": "danushi2026time4",
+    "title": "Time to Go Green: Carbon-Aware Request Scheduling in Software Services",
+    "year": "2026",
+    "month": 0,
+    "authors": [
+      "Ornela Danushi",
+      "Jacopo Soldani",
+      "Stefano Forti",
+      "Antonio Brogi"
+    ],
+    "venue": "International Conference on Cloud Computing and Services Science, CLOSER - Proceedings",
+    "url": "https://doi.org/10.5220/0014725200004039",
+    "type": "conference"
+  },
+  {
+    "key": "stötzner2025method",
+    "title": "A Method for the Quality-Aware Automated Selection of Deployment Technologies",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Miles Stötzner",
+      "Niklas Krieger",
+      "Sandro Speth",
+      "Marcel Weller",
+      "Steffen Becker",
+      "Benjamin Weder",
+      "Jacopo Soldani",
+      "Valentin Morlock"
+    ],
+    "venue": "Software - Practice and Experience",
+    "url": "https://doi.org/10.1002/spe.70012",
+    "type": "journal"
+  },
+  {
+    "key": "moreschini2025ai",
+    "title": "AI Techniques in the Microservices Life-Cycle: a Systematic Mapping Study",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Sergio Moreschini",
+      "Shahrzad Pour",
+      "Ivan Lanese",
+      "Daniel Balouek",
+      "Justus Bogner",
+      "Xiaozhou Li",
+      "Fabiano Pecorelli",
+      "Jacopo Soldani",
+      "Eddy Truyen",
+      "Davide Taibi"
+    ],
+    "venue": "Computing",
+    "url": "https://doi.org/10.1007/s00607-025-01432-z",
+    "type": "journal"
+  },
+  {
+    "key": "azzolini2025application",
+    "title": "Application Placement with Constraint Relaxation",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Damiano Azzolini",
+      "Marco Duca",
+      "Francesco Gallo",
+      "Antonio Ielo",
+      "Stefano Forti"
+    ],
+    "venue": "Theory and Practice of Logic Programming",
+    "url": "https://doi.org/10.1017/S1471068425100148",
+    "type": "journal"
+  },
+  {
+    "key": "forti2025carbon-aware3",
+    "title": "Carbon-Aware Software Services",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Stefano Forti",
+      "Jacopo Soldani",
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-031-84617-5_6",
+    "type": "journal"
+  },
+  {
+    "key": "danushi2025carbon-efficient3",
+    "title": "Carbon-Efficient Software Design and Development: A Systematic Literature Review",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Ornela Danushi",
+      "Stefano Forti",
+      "Jacopo Soldani"
+    ],
+    "venue": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3728638",
+    "type": "journal"
+  },
+  {
+    "key": "schneider2025comparison2",
+    "title": "Comparison of static analysis architecture recovery tools for microservice applications",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Simon Schneider",
+      "Alexander Bakhtin",
+      "Xiaozhou Li",
+      "Jacopo Soldani",
+      "Antonio Brogi",
+      "Tomas Cerny",
+      "Riccardo Scandariato",
+      "Davide Taibi"
+    ],
+    "venue": "Empirical Software Engineering",
+    "url": "https://doi.org/10.1007/s10664-025-10686-2",
+    "type": "journal"
+  },
+  {
+    "key": "azzolini2025continuous",
+    "title": "Continuous reasoning for adaptive container image distribution in the cloud–edge continuum",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Damiano Azzolini",
+      "Stefano Forti",
+      "Antonio Ielo"
+    ],
+    "venue": "Cluster Computing",
+    "url": "https://doi.org/10.1007/s10586-025-05253-9",
+    "type": "journal"
+  },
+  {
+    "key": "besozzi2025decentralized",
+    "title": "Decentralized Q-Learning for Workload Offloading in Urgent Edge Computing Scenarios",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Valerio Besozzi",
+      "Emanuele Carlini",
+      "Marco Danelutto",
+      "Patrizio Dazzi",
+      "Matteo Della Bartola",
+      "Luca Ferrucci",
+      "Jacopo Massa",
+      "Matteo Mordacchini"
+    ],
+    "venue": "Lecture Notes on Data Engineering and Communications Technologies",
+    "url": "https://doi.org/10.1007/978-3-031-96096-3_22",
+    "type": "journal"
+  },
+  {
+    "key": "forti2025declarative2",
+    "title": "Declarative application management with Kubernetes",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Stefano Forti",
+      "Alessandro Rontani",
+      "Carlo Aliprandi",
+      "Giovanni Frattini",
+      "Simone Gagliardi",
+      "Marco Volpini",
+      "Antonio Brogi"
+    ],
+    "venue": "Proceedings - 2025 IEEE International Conference on Cloud Engineering, IC2E 2025",
+    "url": "https://doi.org/10.1109/IC2E65552.2025.00044",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2025declarative2",
+    "title": "Declarative Deployment Planning for Green Pulverised Collective Computational Systems",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Roberto Casadei",
+      "Nicolas Farabegoli",
+      "Stefano Forti",
+      "Mirko Viroli"
+    ],
+    "venue": "Lecture Notes in Computer Science",
+    "url": "https://doi.org/10.1007/978-3-031-95589-1_6",
+    "type": "journal"
+  },
+  {
+    "key": "bisicchia2025distributing2",
+    "title": "Distributing Quantum Computations, Shot-Wise",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Giuseppe Bisicchia",
+      "Giuseppe Clemente",
+      "Jose Garcia-Alonso",
+      "Juan Manuel Murillo",
+      "Massimo D’Elia",
+      "Antonio Brogi"
+    ],
+    "venue": "Future Internet",
+    "url": "https://doi.org/10.3390/fi17110507",
+    "type": "journal"
+  },
+  {
+    "key": "ponce2025enhancing3",
+    "title": "Enhancing Failure Resilience of Cloud-Edge Microservices: The FREEDA Approach",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Francisco Ponce",
+      "Stefano Forti",
+      "Jacopo Soldani",
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-031-84617-5_9",
+    "type": "journal"
+  },
+  {
+    "key": "soldani2025explaining3",
+    "title": "Explaining Microservices' Cascading Failures From Their Logs",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Stefano Forti",
+      "Luca Roveroni",
+      "Antonio Brogi"
+    ],
+    "venue": "Software - Practice and Experience",
+    "url": "https://doi.org/10.1002/spe.3400",
+    "type": "journal"
+  },
+  {
+    "key": "bartola2025fastflow-python",
+    "title": "FastFlow-Python: Parallel Building Blocks in Python Through FastFlow Integration",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Matteo Della Bartola",
+      "Jacopo Massa",
+      "Patrizio Dazzi",
+      "Massimo Torquati"
+    ],
+    "venue": "Proceedings - 2025 IEEE International Conference on Cloud Engineering, IC2E 2025",
+    "url": "https://doi.org/10.1109/IC2E65552.2025.00046",
+    "type": "conference"
+  },
+  {
+    "key": "carlini2025marginal",
+    "title": "Marginal Cost of Computation as a Collaborative Strategy for Resource Management at the Edge",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Emanuele Carlini",
+      "Patrizio Dazzi",
+      "Luca Ferrucci",
+      "Jacopo Massa",
+      "Matteo Mordacchini"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-031-81226-2_3",
+    "type": "journal"
+  },
+  {
+    "key": "ponce2025microservices",
+    "title": "Microservices testing: A systematic literature review",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Francisco Ponce",
+      "Roberto Verdecchia",
+      "Breno Miranda",
+      "Jacopo Soldani"
+    ],
+    "venue": "Information and Software Technology",
+    "url": "https://doi.org/10.1016/j.infsof.2025.107870",
+    "type": "journal"
+  },
+  {
+    "key": "bisicchia2025qsimbench3",
+    "title": "QSimBench: An Execution-Level Benchmark Suite for Quantum Software Engineering",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Giuseppe Bisicchia",
+      "Alessandro Bocci",
+      "Jose Garcia-Alonso",
+      "Juan M. Murillo",
+      "Antonio Brogi"
+    ],
+    "venue": "Proceedings - IEEE Quantum Week 2025, QCE 2025",
+    "url": "https://doi.org/10.1109/QCE65121.2025.10315",
+    "type": "conference"
+  },
+  {
+    "key": "murillo2025quantum",
+    "title": "Quantum Software Engineering: Roadmap and Challenges Ahead",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Juan Manuel Murillo",
+      "Jose Garcia-Alonso",
+      "Enrique Moguel",
+      "Johanna Barzen",
+      "Frank Leymann",
+      "Shaukat Ali",
+      "Tao Yue",
+      "Paolo Arcaini",
+      "Ricardo Pérez-Castillo",
+      "Ignacio García-Rodríguez de Guzmán",
+      "Mario Piattini",
+      "Antonio Ruiz-Cortés",
+      "Antonio Brogi",
+      "Jianjun Zhao",
+      "Andriy Miranskyy",
+      "Manuel Wimmer"
+    ],
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3712002",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2025self-adaptive",
+    "title": "Self-Adaptive Quantum and Classical Software Systems",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Schahram Dustdar",
+      "Michael Felderer",
+      "Hausi Muller",
+      "Juan Manuel Murillo",
+      "Ricardo Perez-Castillo",
+      "Antonio Ruiz-Cortes",
+      "Shinobu Saito",
+      "Ulrike Stege"
+    ],
+    "venue": "Proceedings - IEEE Quantum Week 2025, QCE 2025",
+    "url": "https://doi.org/10.1109/QCE65121.2025.00089",
+    "type": "conference"
+  },
+  {
+    "key": "massa2025towards3",
+    "title": "Towards Declarative Traffic Engineering for Guaranteed Latency-Based Forwarding",
+    "year": "2025",
+    "month": 0,
+    "authors": [
+      "Jacopo Massa",
+      "Stefano Forti",
+      "Federica Paganelli",
+      "Patrizio Dazzi",
+      "Antonio Brogi",
+      "Alexander Clemm",
+      "Toerless Eckert"
+    ],
+    "venue": "Lecture Notes in Computer Science",
+    "url": "https://doi.org/10.1007/978-3-031-90203-1_20",
+    "type": "journal"
+  },
+  {
+    "key": "massa2024declarative3",
+    "title": "A declarative reasoning approach to conflict management in Intent-Based Networking",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Jacopo Massa",
+      "Stefano Forti",
+      "Federica Paganelli",
+      "Patrizio Dazzi",
+      "Antonio Brogi"
+    ],
+    "venue": "Proceedings of the 27th Conference on Innovation in Clouds, Internet and Networks, ICIN 2024",
+    "url": "https://doi.org/10.1109/ICIN60470.2024.10494474",
+    "type": "conference"
+  },
+  {
+    "key": "bisicchia2024distributed3",
+    "title": "A Distributed Tool for Monitoring and Benchmarking a National Federated Cloud",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Giuseppe Bisicchia",
+      "Stefano Forti",
+      "Alberto Colla",
+      "Claudio Pisa",
+      "Alessandro Barchiesi",
+      "Antonio Brogi"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-031-68165-3_5",
+    "type": "journal"
+  },
+  {
+    "key": "serra2024genetic",
+    "title": "A Genetic Algorithm for Placing VNF Chains with Multiple Flavours",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Antonio Serra",
+      "Federica Paganelli",
+      "Antonio Brogi",
+      "Paola Cappanera"
+    ],
+    "venue": "Proceedings - IEEE Symposium on Computers and Communications",
+    "url": "https://doi.org/10.1109/ISCC61673.2024.10733678",
+    "type": "conference"
+  },
+  {
+    "key": "andreoli2024logic2",
+    "title": "A Logic Programming Approach to VM Placement",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Remo Andreoli",
+      "Stefano Forti",
+      "Luigi Pannocchi",
+      "Tommaso Cucinotta",
+      "Antonio Brogi"
+    ],
+    "venue": "International Conference on Cloud Computing and Services Science, CLOSER - Proceedings",
+    "url": "https://doi.org/10.5220/0012729500003711",
+    "type": "conference"
+  },
+  {
+    "key": "ponce2024security2",
+    "title": "Beyond Security: Understanding the Multiple Impacts of Security Smells for Microservices",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Francisco Ponce",
+      "Jacopo Soldani",
+      "Carla Taramasco",
+      "Antonio Brogi",
+      "Hernán Astudillo"
+    ],
+    "venue": "CLEI Eletronic Journal (CLEIej)",
+    "url": "https://doi.org/10.19153/cleiej.27.2.6",
+    "type": "journal"
+  },
+  {
+    "key": "bisicchia2024continuous3",
+    "title": "Continuous QoS-compliant orchestration in the Cloud-Edge continuum",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Giuseppe Bisicchia",
+      "Stefano Forti",
+      "Ernesto Pimentel",
+      "Antonio Brogi"
+    ],
+    "venue": "Software - Practice and Experience",
+    "url": "https://doi.org/10.1002/spe.3334",
+    "type": "journal"
+  },
+  {
+    "key": "bisicchia2024cut&shoot3",
+    "title": "Cut&Shoot: Cutting & Distributing Quantum Circuits Across Multiple NISQ Computers",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Giuseppe Bisicchia",
+      "Alessandro Bocci",
+      "Jose Garcia-Alonso",
+      "Juan M. Murillo",
+      "Antonio Brogi"
+    ],
+    "venue": "Proceedings - IEEE Quantum Week 2024, QCE 2024",
+    "url": "https://doi.org/10.1109/QCE60285.2024.10276",
+    "type": "conference"
+  },
+  {
+    "key": "bisicchia2024distributing2",
+    "title": "Distributing Quantum Computation Across Multiple NISQ Computers",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Giuseppe Bisicchia",
+      "Giuseppe Clemente",
+      "Jose Garcia-Alonso",
+      "Juan M. Murillo",
+      "Massimo Delia",
+      "Antonio Brogi"
+    ],
+    "venue": "Proceedings - IEEE Quantum Week 2024, QCE 2024",
+    "url": "https://doi.org/10.1109/QCE60285.2024.10346",
+    "type": "conference"
+  },
+  {
+    "key": "vitali2024freeda3",
+    "title": "FREEDA: Failure-Resilient, Energy-aware, and Explainable Deployment of Microservice-based Applications over Cloud-IoT Infrastructures",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Monica Vitali",
+      "Jacopo Soldani",
+      "Roberto Amadini",
+      "Antonio Brogi",
+      "Stefano Forti",
+      "Simone Gazza",
+      "Saverio Giallorenzo",
+      "Pierluigi Plebani",
+      "Francisco Ponce",
+      "Gianluigi Zavattaro"
+    ],
+    "venue": "CEUR Workshop Proceedings",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "bisicchia2024quantum2",
+    "title": "From Quantum Software Handcrafting to Quantum Software Engineering",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Giuseppe Bisicchia",
+      "Jose García-Alonso",
+      "Juan M. Murillo",
+      "Antonio Brogi"
+    ],
+    "venue": "Proceedings - 2024 IEEE International Conference on Software Analysis, Evolution and Reengineering - Companion, SANER-C 2024",
+    "url": "https://doi.org/10.1109/SANER-C62648.2024.00026",
+    "type": "conference"
+  },
+  {
+    "key": "soldani2024message",
+    "title": "Message from the Program Chairs SOSE 2024",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Tomas Cerny",
+      "Yingsheng Li"
+    ],
+    "venue": "Proceedings - 18th IEEE International Conference on Service-Oriented System Engineering, SOSE 2024",
+    "url": "https://doi.org/10.1109/SOSE62363.2024.00005",
+    "type": "conference"
+  },
+  {
+    "key": "wizenty2024model-driven3",
+    "title": "Model-Driven End-to-End Resolution of Security Smells in Microservice Architectures",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Philip Wizenty",
+      "Francisco Ponce",
+      "Florian Rademacher",
+      "Jacopo Soldani",
+      "Hernán Astudillo",
+      "Antonio Brogi",
+      "Sabine Sachweh"
+    ],
+    "venue": "International Conference on Cloud Computing and Services Science, CLOSER - Proceedings",
+    "url": "https://doi.org/10.5220/0012671700003711",
+    "type": "conference"
+  },
+  {
+    "key": "wizenty2024model-driven4",
+    "title": "Model-Driven Security Smell Resolution in Microservice Architecture Using LEMMA",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Philip Wizenty",
+      "Francisco Ponce",
+      "Florian Rademacher",
+      "Jacopo Soldani",
+      "Hernán Astudillo",
+      "Antonio Brogi",
+      "Sabine Sachweh"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-031-61753-9_3",
+    "type": "journal"
+  },
+  {
+    "key": "herrera2024multi-layered2",
+    "title": "Multi-Layered Continuous Reasoning for Cloud-IoT Application Management",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Juan Luis Herrera",
+      "Javier Berrocal",
+      "Stefano Forti",
+      "Antonio Brogi",
+      "Juan Manuel Murillo"
+    ],
+    "venue": "IEEE Transactions on Services Computing",
+    "url": "https://doi.org/10.1109/TSC.2024.3451239",
+    "type": "journal"
+  },
+  {
+    "key": "cerny2024maintainability",
+    "title": "On Maintainability and Microservice Dependencies: How Do Changes Propagate?",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Tomas Cerny",
+      "Md Showkat Hossain Chy",
+      "Amr S. Abdelfattah",
+      "Jacopo Soldani",
+      "Justus Bogner"
+    ],
+    "venue": "International Conference on Cloud Computing and Services Science, CLOSER - Proceedings",
+    "url": "https://doi.org/10.5220/0012725200003711",
+    "type": "conference"
+  },
+  {
+    "key": "amadini2024pick3",
+    "title": "Pick a Flavour: Towards Sustainable Deployment of Cloud-Edge Applications",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Roberto Amadini",
+      "Simone Gazza",
+      "Jacopo Soldani",
+      "Monica Vitali",
+      "Antonio Brogi",
+      "Stefano Forti",
+      "Saverio Giallorenzo",
+      "Pierluigi Plebani",
+      "Francisco Ponce",
+      "Gianluigi Zavattaro"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-031-71294-4_7",
+    "type": "journal"
+  },
+  {
+    "key": "soldani2024service-oriented",
+    "title": "Service-oriented and cloud computing",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "George A. Papadopoulos",
+      "Florian Rademacher"
+    ],
+    "venue": "Computing",
+    "url": "https://doi.org/10.1007/s00607-024-01351-5",
+    "type": "journal"
+  },
+  {
+    "key": "howard-grubb2024smelling2",
+    "title": "Smelling Homemade Crypto Code in Microservices, with KubeHound",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Thomas Howard-Grubb",
+      "Jacopo Soldani",
+      "Giorgio Dell’Immagine",
+      "Francesca Arcelli Fontana",
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science",
+    "url": "https://doi.org/10.1007/978-981-97-0989-2_27",
+    "type": "journal"
+  },
+  {
+    "key": "ponce2024sst2",
+    "title": "SST: A Tool to Support the Triage of Security Smells in Microservice Applications",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Francisco Ponce",
+      "Andrea Malnati",
+      "Roberto Negro",
+      "Francesca Arcelli Fontana",
+      "Hernán Astudillo",
+      "Antonio Brogi",
+      "Jacopo Soldani"
+    ],
+    "venue": "SN Computer Science",
+    "url": "https://doi.org/10.1007/s42979-024-03372-5",
+    "type": "journal"
+  },
+  {
+    "key": "bakhtin2024tools2",
+    "title": "Tools Reconstructing Microservice Architecture: A Systematic Mapping Study",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Alexander Bakhtin",
+      "Xiaozhou Li",
+      "Jacopo Soldani",
+      "Antonio Brogi",
+      "Tomas Cerny",
+      "Davide Taibi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-031-66326-0_1",
+    "type": "journal"
+  },
+  {
+    "key": "massa2024towards",
+    "title": "Towards a Comprehensive Approach to Resource and Conflict Management in Cloud-Edge Settings",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Jacopo Massa"
+    ],
+    "venue": "HPDC 2024 - Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3625549.3658829",
+    "type": "conference"
+  },
+  {
+    "key": "bocci2024towards4",
+    "title": "Towards enabling observability of energy demand, with NEST",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Alessandro Bocci",
+      "Antonio Brogi",
+      "Gianpaolo Cugola",
+      "Stefano Forti",
+      "Luca Mottola",
+      "Virginia Pilloni",
+      "Sabrina Romano",
+      "Jacopo Soldani",
+      "Elio Usai"
+    ],
+    "venue": "FRAME 2024 - Proceedings of the 2024 on Workshop on Flexible Resource and Application Management on the Edge, Part of: HPDC 2024 - 3rd International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3659994.3660314",
+    "type": "conference"
+  },
+  {
+    "key": "soldani2024towards3",
+    "title": "Towards Sustainable Deployment of Microservices over the Cloud-IoT Continuum, with FREEDA",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Roberto Amadini",
+      "Antonio Brogi",
+      "Stefano Forti",
+      "Saverio Giallorenzo",
+      "Pierluigi Plebani",
+      "Monica Vitali",
+      "Gianluigi Zavattaro"
+    ],
+    "venue": "FRAME 2024 - Proceedings of the 2024 on Workshop on Flexible Resource and Application Management on the Edge, Part of: HPDC 2024 - 3rd International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3659994.3660311",
+    "type": "conference"
+  },
+  {
+    "key": "ponce2024towards2",
+    "title": "Towards Teamwise Informed Decisions On Microservice Security Smells",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Francisco Ponce",
+      "Jacopo Soldani",
+      "Hernán Astudillo",
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-031-70797-1_23",
+    "type": "journal"
+  },
+  {
+    "key": "ponce2024triaging2",
+    "title": "Triaging Microservice Security Smells, with TriSS",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Francisco Ponce",
+      "Jacopo Soldani",
+      "Carla Taramasco",
+      "Hernan Astudillo",
+      "Antonio Brogi"
+    ],
+    "venue": "ACM International Conference Proceeding Series",
+    "url": "https://doi.org/10.1145/3661167.3661282",
+    "type": "conference"
+  },
+  {
+    "key": "dazzi2024urgent",
+    "title": "Urgent Edge Computing",
+    "year": "2024",
+    "month": 0,
+    "authors": [
+      "Patrizio Dazzi",
+      "Luca Ferrucci",
+      "Marco Danelutto",
+      "Konstantinos Tserpes",
+      "Antonios Makris",
+      "Theodoros Theodoropoulos",
+      "Jacopo Massa",
+      "Emanuele Carlini",
+      "Matteo Mordacchini"
+    ],
+    "venue": "FRAME 2024 - Proceedings of the 2024 on Workshop on Flexible Resource and Application Management on the Edge, Part of: HPDC 2024 - 3rd International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3659994.3660315",
+    "type": "conference"
+  },
+  {
+    "key": "aldinucci2023proposal2",
+    "title": "A Proposal for a Continuum-aware Programming Model: From Workflows to Services Autonomously Interacting in the Compute Continuum",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Marco Aldinucci",
+      "Robert Birke",
+      "Antonio Brogi",
+      "Emanuele Carlini",
+      "Massimo Coppola",
+      "Marco Danelutto",
+      "Patrizio Dazzi",
+      "Luca Ferrucci",
+      "Stefano Forti",
+      "Hanna Kavalionak",
+      "Gabriele Mencagli",
+      "Matteo Mordacchini",
+      "Marcelo Pasin",
+      "Federica Paganelli",
+      "Massimo Torquati"
+    ],
+    "venue": "Proceedings - International Computer Software and Applications Conference",
+    "url": "https://doi.org/10.1109/COMPSAC57700.2023.00287",
+    "type": "conference"
+  },
+  {
+    "key": "stötzner2023systematic",
+    "title": "A Systematic Technology Review of General-Purpose Open-Source TOSCA Orchestrators",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Miles Stötzner",
+      "Steffen Becker",
+      "Lukas Harzenetter",
+      "Frank Leymann",
+      "Benjamin Weder",
+      "Uwe Breitenbücher",
+      "Oliver Kopp",
+      "Kevin Klein",
+      "Jacopo Soldani"
+    ],
+    "venue": "16th IEEE/ACM International Conference on Utility and Cloud Computing, UCC 2023",
+    "url": "https://doi.org/10.1145/3603166.3632130",
+    "type": "conference"
+  },
+  {
+    "key": "gaglianese2023assessing2",
+    "title": "Assessing and enhancing a Cloud-IoT monitoring service over federated testbeds",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "M. Gaglianese",
+      "S. Forti",
+      "F. Paganelli",
+      "A. Brogi"
+    ],
+    "venue": "Future Generation Computer Systems",
+    "url": "https://doi.org/10.1016/j.future.2023.04.026",
+    "type": "journal"
+  },
+  {
+    "key": "herrera2023continuous2",
+    "title": "Continuous QoS-aware adaptation of Cloud-IoT application placements",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Juan Luis Herrera",
+      "Javier Berrocal",
+      "Stefano Forti",
+      "Antonio Brogi",
+      "Juan M. Murillo"
+    ],
+    "venue": "Computing",
+    "url": "https://doi.org/10.1007/s00607-023-01153-1",
+    "type": "journal"
+  },
+  {
+    "key": "bisicchia2023customisable3",
+    "title": "Customisable Fault and Performance Monitoring Across Multiple Clouds",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Giuseppe Bisicchia",
+      "Stefano Forti",
+      "Alberto Colla",
+      "Antonio Brogi"
+    ],
+    "venue": "International Conference on Cloud Computing and Services Science, CLOSER - Proceedings",
+    "url": "https://doi.org/10.5220/0011849500003488",
+    "type": "conference"
+  },
+  {
+    "key": "massa2023data-aware",
+    "title": "Data-Aware Application Placement and Management in the Cloud-IoT Continuum",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Jacopo Massa"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-031-26507-5_24",
+    "type": "journal"
+  },
+  {
+    "key": "massa2023declarative5",
+    "title": "Declarative and Linear Programming Approaches to Service Placement, Reconciled",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Jacopo Massa",
+      "Stefano Forti",
+      "Patrizio Dazzi",
+      "Antonio Brogi"
+    ],
+    "venue": "IEEE International Conference on Cloud Computing, CLOUD",
+    "url": "https://doi.org/10.1109/CLOUD60044.2023.00033",
+    "type": "conference"
+  },
+  {
+    "key": "massa2023declarative6",
+    "title": "Declarative Provisioning of Virtual Network Function Chains in Intent-based Networks",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Jacopo Massa",
+      "Stefano Forti",
+      "Federica Paganelli",
+      "Patrizio Dazzi",
+      "Antonio Brogi"
+    ],
+    "venue": "2023 IEEE 9th International Conference on Network Softwarization: Boosting Future Networks through Advanced Softwarization, NetSoft 2023 - Proceedings",
+    "url": "https://doi.org/10.1109/NetSoft57336.2023.10175449",
+    "type": "conference"
+  },
+  {
+    "key": "bocci2023declarative3",
+    "title": "Declarative Secure Placement of FaaS Orchestrations in the Cloud-Edge Continuum",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Alessandro Bocci",
+      "Stefano Forti",
+      "Gian-Luigi Ferrari",
+      "Antonio Brogi"
+    ],
+    "venue": "Electronics (Switzerland)",
+    "url": "https://doi.org/10.3390/electronics12061332",
+    "type": "journal"
+  },
+  {
+    "key": "bisicchia2023dispatching2",
+    "title": "Dispatching Shots Among Multiple Quantum Computers: An Architectural Proposal",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Giuseppe Bisicchia",
+      "Jose Garcia-Alonso",
+      "Juan M. Murillo",
+      "Antonio Brogi"
+    ],
+    "venue": "Proceedings - 2023 IEEE International Conference on Quantum Computing and Engineering, QCE 2023",
+    "url": "https://doi.org/10.1109/QCE57702.2023.10210",
+    "type": "conference"
+  },
+  {
+    "key": "bisicchia2023distributing2",
+    "title": "Distributing Quantum Computations, by Shots",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Giuseppe Bisicchia",
+      "Jose García-Alonso",
+      "Juan M. Murillo",
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-031-48421-6_25",
+    "type": "journal"
+  },
+  {
+    "key": "baldini2023estimating",
+    "title": "Estimating the Environmental Impact of Green IoT Deployments",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Edoardo Baldini",
+      "Stefano Chessa",
+      "Antonio Brogi"
+    ],
+    "venue": "Sensors",
+    "url": "https://doi.org/10.3390/s23031537",
+    "type": "journal"
+  },
+  {
+    "key": "gaglianese2023green3",
+    "title": "Green Orchestration of Cloud-Edge Applications: State of the Art and Open Challenges",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Marco Gaglianese",
+      "Jacopo Soldani",
+      "Stefano Forti",
+      "Antonio Brogi"
+    ],
+    "venue": "Proceedings - 17th IEEE International Conference on Service-Oriented System Engineering, SOSE 2023",
+    "url": "https://doi.org/10.1109/SOSE58276.2023.00036",
+    "type": "conference"
+  },
+  {
+    "key": "dell’immagine2023kubehound2",
+    "title": "KubeHound: Detecting Microservices’ Security Smells in Kubernetes Deployments",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Giorgio Dell’Immagine",
+      "Jacopo Soldani",
+      "Antonio Brogi"
+    ],
+    "venue": "Future Internet",
+    "url": "https://doi.org/10.3390/fi15070228",
+    "type": "journal"
+  },
+  {
+    "key": "soldani2023kubernetes-enabled2",
+    "title": "Kubernetes-Enabled Detection and Resolution of Architectural Smells for Microservices",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Davide Rendina",
+      "Francesca Arcelli Fontana",
+      "Antonio Brogi"
+    ],
+    "venue": "Proceedings - 17th IEEE International Conference on Service-Oriented System Engineering, SOSE 2023",
+    "url": "https://doi.org/10.1109/SOSE58276.2023.00015",
+    "type": "conference"
+  },
+  {
+    "key": "forti2023leasing2",
+    "title": "Leasing the Cloud-Edge Continuum, à la Carte",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Stefano Forti",
+      "Ahmad Ibrahim",
+      "Antonio Brogi"
+    ],
+    "venue": "Electronic Proceedings in Theoretical Computer Science, EPTCS",
+    "url": "https://doi.org/10.4204/EPTCS.385.28",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2023microservices",
+    "title": "Microservices Beyond COVID-19",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi"
+    ],
+    "venue": "OpenAccess Series in Informatics",
+    "url": "https://doi.org/10.4230/OASIcs.Microservices.2020-2022.1",
+    "type": "conference"
+  },
+  {
+    "key": "ponce2023microservices2",
+    "title": "Microservices Security: Bad vs. Good Practices",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Francisco Ponce",
+      "Jacopo Soldani",
+      "Hernán Astudillo",
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-031-36889-9_23",
+    "type": "journal"
+  },
+  {
+    "key": "soldani2023offline2",
+    "title": "Offline Mining of Microservice-Based Architectures (Extended Version)",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Javad Khalili",
+      "Antonio Brogi"
+    ],
+    "venue": "SN Computer Science",
+    "url": "https://doi.org/10.1007/s42979-023-01721-4",
+    "type": "journal"
+  },
+  {
+    "key": "maione2023people2",
+    "title": "People Counting in the Times of Covid-19",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "E. Maione",
+      "S. Forti",
+      "A. Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-031-26507-5_16",
+    "type": "journal"
+  },
+  {
+    "key": "papadopoulos2023preface",
+    "title": "Preface",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "George A. Papadopoulos",
+      "Florian Rademacher",
+      "Jacopo Soldani"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "",
+    "type": "journal"
+  },
+  {
+    "key": "bocci2023secure3",
+    "title": "Secure Partitioning of Cloud Applications, with Cost Look-Ahead",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Alessandro Bocci",
+      "Stefano Forti",
+      "Roberto Guanciale",
+      "Gian-Luigi Ferrari",
+      "Antonio Brogi"
+    ],
+    "venue": "Future Internet",
+    "url": "https://doi.org/10.3390/fi15070224",
+    "type": "journal"
+  },
+  {
+    "key": "soldani2023semi-automated2",
+    "title": "Semi-Automated Smell Resolution in Kubernetes-Deployed Microservices",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Marco Marinò",
+      "Antonio Brogi"
+    ],
+    "venue": "International Conference on Cloud Computing and Services Science, CLOSER - Proceedings",
+    "url": "https://doi.org/10.5220/0011845500003488",
+    "type": "conference"
+  },
+  {
+    "key": "matricardi2023simulating3",
+    "title": "Simulating FaaS Orchestrations In The Cloud-Edge Continuum",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Alessio Matricardi",
+      "Alessandro Bocci",
+      "Stefano Forti",
+      "Antonio Brogi"
+    ],
+    "venue": "FRAME 2023 - Proceedings of the 3rd Workshop on Flexible Resource and Application Management on the Edge",
+    "url": "https://doi.org/10.1145/3589010.3594893",
+    "type": "conference"
+  },
+  {
+    "key": "bocci2023sustainable3",
+    "title": "Sustainable Cloud-Edge Infrastructure as a Service",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Alessandro Bocci",
+      "Stefano Forti",
+      "Antonio Brogi"
+    ],
+    "venue": "12th Mediterranean Conference on Embedded Computing, MECO 2023",
+    "url": "https://doi.org/10.1109/MECO58584.2023.10155023",
+    "type": "conference"
+  },
+  {
+    "key": "bisicchia2023sustainable3",
+    "title": "Sustainable goal-oriented smart environments: a declarative programming approach",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Giuseppe Bisicchia",
+      "Stefano Forti",
+      "Antonio Brogi"
+    ],
+    "venue": "Journal of Logic and Computation",
+    "url": "https://doi.org/10.1093/logcom/exad015",
+    "type": "journal"
+  },
+  {
+    "key": "diriccio2023sustainable3",
+    "title": "Sustainable placement of VNF chains in Intent-based Networking",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Tommaso Di Riccio",
+      "Jacopo Massa",
+      "Stefano Forti",
+      "Antonio Brogi"
+    ],
+    "venue": "16th IEEE/ACM International Conference on Utility and Cloud Computing, UCC 2023",
+    "url": "https://doi.org/10.1145/3603166.3632167",
+    "type": "conference"
+  },
+  {
+    "key": "ponce2023security2",
+    "title": "To Security and Beyond: On The Impacts of Microservice Security Smells and Refactorings",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Francisco Ponce",
+      "Jacopo Soldani",
+      "Carla Taramasco",
+      "Hernan Astudillo",
+      "Antonio Brogi"
+    ],
+    "venue": "Proceedings - 2023 49th Latin American Computing Conference, CLEI 2023",
+    "url": "https://doi.org/10.1109/CLEI60451.2023.10346146",
+    "type": "conference"
+  },
+  {
+    "key": "massa2023towards3",
+    "title": "Towards declarative intent processing and conflict resolution in IBN",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Jacopo Massa",
+      "Stefano Forti",
+      "Federica Paganelli",
+      "Patrizio Dazzi",
+      "Antonio Brogi"
+    ],
+    "venue": "16th IEEE/ACM International Conference on Utility and Cloud Computing, UCC 2023",
+    "url": "https://doi.org/10.1145/3603166.3632236",
+    "type": "conference"
+  },
+  {
+    "key": "soldani2023yrca3",
+    "title": "yRCA: An explainable failure root cause analyser[Formula presented]",
+    "year": "2023",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Stefano Forti",
+      "Antonio Brogi"
+    ],
+    "venue": "Science of Computer Programming",
+    "url": "https://doi.org/10.1016/j.scico.2023.102997",
+    "type": "journal"
+  },
+  {
+    "key": "soldani2022anomaly2",
+    "title": "Anomaly Detection and Failure Root Cause Analysis in (Micro) Service-Based Cloud Applications: A Survey",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Antonio Brogi"
+    ],
+    "venue": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3501297",
+    "type": "journal"
+  },
+  {
+    "key": "ntentos2022assessing2",
+    "title": "Assessing Architecture Conformance to Coupling-Related Infrastructure-as-Code Best Practices: Metrics and Case Studies",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Evangelos Ntentos",
+      "Uwe Zdun",
+      "Jacopo Soldani",
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-031-16697-6_7",
+    "type": "journal"
+  },
+  {
+    "key": "soldani2022compositional2",
+    "title": "Compositional testing of management conformance for multi-component enterprise applications",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Lars Luthmann",
+      "Nicolas Gottwald",
+      "Malte Lochau",
+      "Antonio Brogi"
+    ],
+    "venue": "Service Oriented Computing and Applications",
+    "url": "https://doi.org/10.1007/s11761-022-00341-9",
+    "type": "journal"
+  },
+  {
+    "key": "massa2022data-aware3",
+    "title": "Data-Aware Service Placement in the Cloud-IoT Continuum",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Jacopo Massa",
+      "Stefano Forti",
+      "Antonio Brogi"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-031-18304-1_8",
+    "type": "journal"
+  },
+  {
+    "key": "forti2022declarative3",
+    "title": "Declarative continuous reasoning in the cloud-IoT continuum",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Stefano Forti",
+      "Giuseppe Bisicchia",
+      "Antonio Brogi"
+    ],
+    "venue": "Journal of Logic and Computation",
+    "url": "https://doi.org/10.1093/logcom/exab083",
+    "type": "journal"
+  },
+  {
+    "key": "soldani2022failure3",
+    "title": "Failure Root Cause Analysis for Microservices, Explained",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Stefano Forti",
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-031-16092-9_6",
+    "type": "journal"
+  },
+  {
+    "key": "forti2022green2",
+    "title": "Green Application Placement in the Cloud-IoT Continuum",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Stefano Forti",
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-030-94479-7_14",
+    "type": "journal"
+  },
+  {
+    "key": "forti2022keynote",
+    "title": "Keynote: The fog is rising, in sustainable smart cities",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Stefano Forti"
+    ],
+    "venue": "2022 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events, PerCom Workshops 2022",
+    "url": "https://doi.org/10.1109/PerComWorkshops53856.2022.9767358",
+    "type": "conference"
+  },
+  {
+    "key": "gaglianese2022lightweight2",
+    "title": "Lightweight Self-adaptive Cloud-IoT Monitoring across Fed4FIRE+ Testbeds",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Marco Gaglianese",
+      "Stefano Forti",
+      "Federica Paganelli",
+      "Antonio Brogi"
+    ],
+    "venue": "INFOCOM WKSHPS 2022 - IEEE Conference on Computer Communications Workshops",
+    "url": "https://doi.org/10.1109/INFOCOMWKSHPS54753.2022.9798259",
+    "type": "conference"
+  },
+  {
+    "key": "soldani2022modelling2",
+    "title": "Modelling and Analysing Replica- and Fault-aware Management of Horizontally Scalable Applications",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Marco Cameriero",
+      "Giulio Paparelli",
+      "Antonio Brogi"
+    ],
+    "venue": "ACM Transactions on Internet Technology",
+    "url": "https://doi.org/10.1145/3511302",
+    "type": "journal"
+  },
+  {
+    "key": "soldani2022offline2",
+    "title": "Offline Mining of Microservice-based Architectures",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Javad Khalili",
+      "Antonio Brogi"
+    ],
+    "venue": "International Conference on Cloud Computing and Services Science, CLOSER - Proceedings",
+    "url": "https://doi.org/10.5220/0011061000003200",
+    "type": "conference"
+  },
+  {
+    "key": "soldani2022pattern-based2",
+    "title": "Pattern-Based Resolution of Integration Mismatches in Enterprise Applications",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Riccardo Paoletti",
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-031-04718-3_6",
+    "type": "journal"
+  },
+  {
+    "key": "forti2022probabilistic2",
+    "title": "Probabilistic QoS-aware Placement of VNF Chains at the Edge",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Stefano Forti",
+      "Federica Paganelli",
+      "Antonio Brogi"
+    ],
+    "venue": "Theory and Practice of Logic Programming",
+    "url": "https://doi.org/10.1017/S1471068421000016",
+    "type": "journal"
+  },
+  {
+    "key": "bocci2022secure3",
+    "title": "Secure Partitioning of Composite Cloud Applications",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Alessandro Bocci",
+      "Roberto Guanciale",
+      "Stefano Forti",
+      "Gian-Luigi Ferrari",
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-031-04718-3_3",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2022self-healing2",
+    "title": "Self-healing trans-cloud applications",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jose Carrasco",
+      "Francisco Durán",
+      "Ernesto Pimentel",
+      "Jacopo Soldani"
+    ],
+    "venue": "Computing",
+    "url": "https://doi.org/10.1007/s00607-021-00977-z",
+    "type": "journal"
+  },
+  {
+    "key": "yussupov2022serverless2",
+    "title": "Serverless or Serverful? A Pattern-Based Approach for Exploring Hosting Alternatives",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Vladimir Yussupov",
+      "Uwe Breitenbücher",
+      "Antonio Brogi",
+      "Lukas Harzenetter",
+      "Frank Leymann",
+      "Jacopo Soldani"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-031-18304-1_3",
+    "type": "journal"
+  },
+  {
+    "key": "ponce2022should2",
+    "title": "Should Microservice Security Smells Stay or be Refactored? Towards a Trade-off Analysis",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Francisco Ponce",
+      "Jacopo Soldani",
+      "Hernán Astudillo",
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-031-16697-6_9",
+    "type": "journal"
+  },
+  {
+    "key": "ponce2022smells2",
+    "title": "Smells and refactorings for microservices security: A multivocal literature review",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Francisco Ponce",
+      "Jacopo Soldani",
+      "Hernán Astudillo",
+      "Antonio Brogi"
+    ],
+    "venue": "Journal of Systems and Software",
+    "url": "https://doi.org/10.1016/j.jss.2022.111393",
+    "type": "journal"
+  },
+  {
+    "key": "yussupov2022standards-based",
+    "title": "Standards-based modeling and deployment of serverless function orchestrations using BPMN and TOSCA",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Vladimir Yussupov",
+      "Jacopo Soldani",
+      "Uwe Breitenbücher",
+      "Frank Leymann"
+    ],
+    "venue": "Software - Practice and Experience",
+    "url": "https://doi.org/10.1002/spe.3073",
+    "type": "journal"
+  },
+  {
+    "key": "soldani2022tailoring2",
+    "title": "Tailoring Technology-Agnostic Deployment Models to Production-Ready Deployment Technologies",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Uwe Breitenbücher",
+      "Antonio Brogi",
+      "Leonardo Frioli",
+      "Frank Leymann",
+      "Michael Wurster"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-031-21637-4_1",
+    "type": "journal"
+  },
+  {
+    "key": "bocci2022type3",
+    "title": "Type, pad, and place: Avoiding data leaks in Cloud-IoT FaaS orchestrations",
+    "year": "2022",
+    "month": 0,
+    "authors": [
+      "Alessandro Bocci",
+      "Stefano Forti",
+      "Gian-Luigi Ferrari",
+      "Antonio Brogi"
+    ],
+    "venue": "Proceedings - 22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, CCGrid 2022",
+    "url": "https://doi.org/10.1109/CCGrid54584.2022.00094",
+    "type": "conference"
+  },
+  {
+    "key": "bisicchia2021declarative5",
+    "title": "A Declarative Goal-oriented Framework for Smart Environments with LPaaS",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Giuseppe Bisicchia",
+      "Stefano Forti",
+      "Antonio Brogi"
+    ],
+    "venue": "CEUR Workshop Proceedings",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "soldani2021automated2",
+    "title": "Automated Generation of Configurable Cloud-Native Chaos Testbeds",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Antonio Brogi"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-030-86507-8_10",
+    "type": "journal"
+  },
+  {
+    "key": "wurster2021automating2",
+    "title": "Automating the Deployment of Distributed Applications by Combining Multiple Deployment Technologies",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Michael Wurster",
+      "Uwe Breitenbücher",
+      "Antonio Brogi",
+      "Felix Diez",
+      "Frank Leymann",
+      "Jacopo Soldani",
+      "Karoline Wild"
+    ],
+    "venue": "International Conference on Cloud Computing and Services Science, CLOSER - Proceedings",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "forti2021corrigendum2",
+    "title": "Corrigendum to “Lightweight self-organising distributed monitoring of Fog infrastructures” [Future Gener. Comput. Syst. 114 (2020) 605–618] (Future Generation Computer Systems (2021) 114 (605–618), (S0167739X19334582), (10.1016/j.future.2020.08.011))",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Stefano Forti",
+      "Marco Gaglianese",
+      "Antonio Brogi"
+    ],
+    "venue": "Future Generation Computer Systems",
+    "url": "https://doi.org/10.1016/j.future.2021.01.009",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2021declarative2",
+    "title": "Declarative Application Management in the Fog: A Bacteria-Inspired Decentralised Approach",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Stefano Forti",
+      "Carlos Guerrero",
+      "Isaac Lera"
+    ],
+    "venue": "Journal of Grid Computing",
+    "url": "https://doi.org/10.1007/s10723-021-09582-y",
+    "type": "journal"
+  },
+  {
+    "key": "bisicchia2021declarative6",
+    "title": "Declarative Goal Mediation in Smart Environments",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Giuseppe Bisicchia",
+      "Stefano Forti",
+      "Antonio Brogi"
+    ],
+    "venue": "Proceedings - 2021 IEEE International Conference on Smart Computing, SMARTCOMP 2021",
+    "url": "https://doi.org/10.1109/SMARTCOMP52413.2021.00079",
+    "type": "conference"
+  },
+  {
+    "key": "forti2021declarative2",
+    "title": "Declarative Osmotic Application Placement",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Stefano Forti",
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Business Information Processing",
+    "url": "https://doi.org/10.1007/978-3-030-79022-6_15",
+    "type": "journal"
+  },
+  {
+    "key": "yussupov2021faasten2",
+    "title": "FaaSten your decisions: A classification framework and technology review of function-as-a-Service platforms",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Vladimir Yussupov",
+      "Jacopo Soldani",
+      "Uwe Breitenbücher",
+      "Antonio Brogi",
+      "Frank Leymann"
+    ],
+    "venue": "Journal of Systems and Software",
+    "url": "https://doi.org/10.1016/j.jss.2021.110906",
+    "type": "journal"
+  },
+  {
+    "key": "soldani2021finding",
+    "title": "Finding Feasible Application Deployments in Edge Clusters, with Limited Resources",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-030-71906-7_1",
+    "type": "journal"
+  },
+  {
+    "key": "yussupov2021serverful2",
+    "title": "From Serverful to Serverless: A Spectrum of Patterns for Hosting Application Components",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Vladimir Yussupov",
+      "Jacopo Soldani",
+      "Uwe Breitenbücher",
+      "Antonio Brogi",
+      "Frank Leymann"
+    ],
+    "venue": "International Conference on Cloud Computing and Services Science, CLOSER - Proceedings",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "forti2021lightweight2",
+    "title": "Lightweight self-organising distributed monitoring of Fog infrastructures",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Stefano Forti",
+      "Marco Gaglianese",
+      "Antonio Brogi"
+    ],
+    "venue": "Future Generation Computer Systems",
+    "url": "https://doi.org/10.1016/j.future.2020.08.011",
+    "type": "journal"
+  },
+  {
+    "key": "muntoni2021mining2",
+    "title": "Mining the Architecture of Microservice-Based Applications from their Kubernetes Deployment",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Giuseppe Muntoni",
+      "Jacopo Soldani",
+      "Antonio Brogi"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-030-71906-7_9",
+    "type": "journal"
+  },
+  {
+    "key": "forti2021osmotic2",
+    "title": "Osmotic management of distributed complex systems: A declarative decentralised approach",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Stefano Forti",
+      "Isaac Lera",
+      "Carlos Guerrero",
+      "Antonio Brogi"
+    ],
+    "venue": "Journal of Software: Evolution and Process",
+    "url": "https://doi.org/10.1002/smr.2405",
+    "type": "journal"
+  },
+  {
+    "key": "bocci2021placing3",
+    "title": "Placing FaaS in the Fog, securely",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Alessandro Bocci",
+      "Stefano Forti",
+      "Gian-Luigi Ferrari",
+      "Antonio Brogi"
+    ],
+    "venue": "CEUR Workshop Proceedings",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "pimentel2021preface",
+    "title": "Preface to the Special Issue on Coordination and Self-Adaptiveness of Software Applications",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Ernesto Pimentel",
+      "Jacopo Soldani"
+    ],
+    "venue": "Science of Computer Programming",
+    "url": "https://doi.org/10.1016/j.scico.2020.102594",
+    "type": "journal"
+  },
+  {
+    "key": "paganelli2021profit-aware",
+    "title": "Profit-aware placement of multi-flavoured VNF chains",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Federica Paganelli",
+      "Paola Cappanera",
+      "Antonio Brogi",
+      "Riccardo Falco"
+    ],
+    "venue": "2021 IEEE 10th International Conference on Cloud Networking, CloudNet 2021",
+    "url": "https://doi.org/10.1109/CloudNet53349.2021.9657114",
+    "type": "conference"
+  },
+  {
+    "key": "bocci2021secure3",
+    "title": "Secure FaaS orchestration in the fog: how far are we?",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Alessandro Bocci",
+      "Stefano Forti",
+      "Gian-Luigi Ferrari",
+      "Antonio Brogi"
+    ],
+    "venue": "Computing",
+    "url": "https://doi.org/10.1007/s00607-021-00924-y",
+    "type": "journal"
+  },
+  {
+    "key": "soldani2021μtosca2",
+    "title": "The μTOSCA toolchain: Mining, analyzing, and refactoring microservice-based architectures",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Giuseppe Muntoni",
+      "Davide Neri",
+      "Antonio Brogi"
+    ],
+    "venue": "Software - Practice and Experience",
+    "url": "https://doi.org/10.1002/spe.2974",
+    "type": "journal"
+  },
+  {
+    "key": "soldani2021what2",
+    "title": "What Went Wrong? Explaining Cascading Failures in Microservice-Based Applications",
+    "year": "2021",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Giuseppe Montesano",
+      "Antonio Brogi"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-030-87568-8_9",
+    "type": "journal"
+  },
+  {
+    "key": "wurster2020cloud-native2",
+    "title": "Cloud-native Deploy-ability: An Analysis of required features of deployment technologies to deploy arbitrary cloud-native applications",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Michael Wurster",
+      "Uwe Breitenbücher",
+      "Antonio Brogi",
+      "Frank Leymann",
+      "Jacopo Soldani"
+    ],
+    "venue": "CLOSER 2020 - Proceedings of the 10th International Conference on Cloud Computing and Services Science",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "bogo2020component-aware2",
+    "title": "Component-aware orchestration of cloud-based enterprise applications, from TOSCA to Docker and Kubernetes",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Matteo Bogo",
+      "Jacopo Soldani",
+      "Davide Neri",
+      "Antonio Brogi"
+    ],
+    "venue": "Software - Practice and Experience",
+    "url": "https://doi.org/10.1002/spe.2848",
+    "type": "journal"
+  },
+  {
+    "key": "forti2020continuous2",
+    "title": "Continuous reasoning for managing next-gen distributed applications",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Stefano Forti",
+      "Antonio Brogi"
+    ],
+    "venue": "Electronic Proceedings in Theoretical Computer Science, EPTCS",
+    "url": "https://doi.org/10.4204/EPTCS.325.22",
+    "type": "conference"
+  },
+  {
+    "key": "neri2020design2",
+    "title": "Design principles, architectural smells and refactorings for microservices: a multivocal review",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Davide Neri",
+      "Jacopo Soldani",
+      "Olaf Zimmermann",
+      "Antonio Brogi"
+    ],
+    "venue": "Software-Intensive Cyber-Physical Systems",
+    "url": "https://doi.org/10.1007/s00450-019-00407-8",
+    "type": "journal"
+  },
+  {
+    "key": "bogo2020fine-grained2",
+    "title": "Fine-grained management of cloud-native applications, based on TOSCA",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Matteo Bogo",
+      "Jacopo Soldani",
+      "Davide Neri",
+      "Antonio Brogi"
+    ],
+    "venue": "Internet Technology Letters",
+    "url": "https://doi.org/10.1002/itl2.212",
+    "type": "journal"
+  },
+  {
+    "key": "gelenbe2020foreword",
+    "title": "Foreword to the ICFC 2020 Proceedings",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Erol Gelenbe",
+      "Jie Liu",
+      "Valeria Cardellini",
+      "Song Guo",
+      "Vincenzo De Maio",
+      "Javid Taheri",
+      "Stefano Forti"
+    ],
+    "venue": "Proceedings - 2020 IEEE International Conference on Fog Computing, ICFC 2020",
+    "url": "https://doi.org/10.1109/ICFC49376.2020.00005",
+    "type": "conference"
+  },
+  {
+    "key": "márquez2020frameworks",
+    "title": "Frameworks and high-availability in microservices: An industrial survey",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Gastón Márquez",
+      "Jacopo Soldani",
+      "Francisco Ponce",
+      "Hernán Astudillo"
+    ],
+    "venue": "23rd Iberoamerican Conference on Software Engineering, CIbSE 2020",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2020freshening2",
+    "title": "Freshening the Air in Microservices: Resolving Architectural Smells via Refactoring",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Davide Neri",
+      "Jacopo Soldani"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-030-45989-5_2",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2020how2",
+    "title": "How to place your apps in the fog: State of the art and open challenges",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Stefano Forti",
+      "Carlos Guerrero",
+      "Isaac Lera"
+    ],
+    "venue": "Software - Practice and Experience",
+    "url": "https://doi.org/10.1002/spe.2766",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2020identifying2",
+    "title": "Identifying Failure Causalities in Multi-component Applications",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jacopo Soldani"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-030-57506-9_17",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2020enhancing2",
+    "title": "On Enhancing the Orchestration of Multi-container Docker Applications",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Claus Pahl",
+      "Jacopo Soldani"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-030-63161-1_2",
+    "type": "journal"
+  },
+  {
+    "key": "yussupov2020pattern-based",
+    "title": "Pattern-based Modelling, Integration, and Deployment of Microservice Architectures",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Vladimir Yussupov",
+      "Uwe Breitenbucher",
+      "Christoph Krieger",
+      "Frank Leymann",
+      "Jacopo Soldani",
+      "Michael Wurster"
+    ],
+    "venue": "Proceedings - 2020 IEEE 24th International Enterprise Distributed Object Computing Conference, EDOC 2020",
+    "url": "https://doi.org/10.1109/EDOC49727.2020.00015",
+    "type": "conference"
+  },
+  {
+    "key": "forti2020predictive",
+    "title": "Predictive Management of Fog Applications",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Stefano Forti"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-030-63161-1_11",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2020preface",
+    "title": "Preface",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Wolf Zimmermann",
+      "Kyriakos Kritikos"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "",
+    "type": "journal"
+  },
+  {
+    "key": "jacquet2020preface",
+    "title": "Preface to the Special Issue on Foundations of Coordination Languages and Self-Adaptive Systems (FOCLASA 2018)",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Jean-Marie Jacquet",
+      "Jacopo Soldani"
+    ],
+    "venue": "Science of Computer Programming",
+    "url": "https://doi.org/10.1016/j.scico.2020.102417",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2020secure2",
+    "title": "Secure Apps in the Fog: Anything to Declare?",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Gian-Luigi Ferrari",
+      "Stefano Forti"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-030-63161-1_4",
+    "type": "journal"
+  },
+  {
+    "key": "forti2020secure2",
+    "title": "Secure Cloud-Edge Deployments, with Trust",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Stefano Forti",
+      "Gian-Luigi Ferrari",
+      "Antonio Brogi"
+    ],
+    "venue": "Future Generation Computer Systems",
+    "url": "https://doi.org/10.1016/j.future.2019.08.020",
+    "type": "journal"
+  },
+  {
+    "key": "forti2020simulating2",
+    "title": "Simulating FogDirector Application Management",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Stefano Forti",
+      "Alessandro Pagiaro",
+      "Antonio Brogi"
+    ],
+    "venue": "Simulation Modelling Practice and Theory",
+    "url": "https://doi.org/10.1016/j.simpat.2019.102021",
+    "type": "journal"
+  },
+  {
+    "key": "wurster2020technology-agnostic2",
+    "title": "Technology-Agnostic Declarative Deployment Automation of Cloud Applications",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Michael Wurster",
+      "Uwe Breitenbücher",
+      "Antonio Brogi",
+      "Lukas Harzenetter",
+      "Frank Leymann",
+      "Jacopo Soldani"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-030-44769-4_8",
+    "type": "journal"
+  },
+  {
+    "key": "soldani2020testing2",
+    "title": "Testing Conformance in Multi-component Enterprise Application Management",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Lars Luthmann",
+      "Malte Lochau",
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-030-44769-4_1",
+    "type": "journal"
+  },
+  {
+    "key": "wurster2020edmm2",
+    "title": "The EDMM Modeling and Transformation System",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Michael Wurster",
+      "Uwe Breitenbücher",
+      "Antonio Brogi",
+      "Ghareeb Falazi",
+      "Lukas Harzenetter",
+      "Frank Leymann",
+      "Jacopo Soldani",
+      "Vladimir Yussupov"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-030-45989-5_26",
+    "type": "journal"
+  },
+  {
+    "key": "wurster2020essential",
+    "title": "The essential deployment metamodel: a systematic review of deployment automation technologies",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Michael Wurster",
+      "Uwe Breitenbücher",
+      "Michael Falkenthal",
+      "Christoph Krieger",
+      "Frank Leymann",
+      "Karoline Saatkamp",
+      "Jacopo Soldani"
+    ],
+    "venue": "Software-Intensive Cyber-Physical Systems",
+    "url": "https://doi.org/10.1007/s00450-019-00412-x",
+    "type": "journal"
+  },
+  {
+    "key": "wurster2020tosca1",
+    "title": "TOSCA Light: Bridging the gap between the TOSCA specification and production-ready deployment technologies",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Michael Wurster",
+      "Uwe Breitenbücher",
+      "Lukas Harzenetter",
+      "Frank Leymann",
+      "Jacopo Soldani",
+      "Vladimir Yussupov"
+    ],
+    "venue": "CLOSER 2020 - Proceedings of the 10th International Conference on Cloud Computing and Services Science",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "wurster2020tosca2",
+    "title": "TOSCA Lightning: An Integrated Toolchain for Transforming TOSCA Light into Production-Ready Deployment Technologies",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Michael Wurster",
+      "Uwe Breitenbücher",
+      "Lukas Harzenetter",
+      "Frank Leymann",
+      "Jacopo Soldani"
+    ],
+    "venue": "Lecture Notes in Business Information Processing",
+    "url": "https://doi.org/10.1007/978-3-030-58135-0_12",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2020towards2",
+    "title": "Towards Declarative Decentralised Application Management in the Fog",
+    "year": "2020",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Stefano Forti",
+      "Carlos Guerrero",
+      "Isaac Lera"
+    ],
+    "venue": "Proceedings - 2020 IEEE 31st International Symposium on Software Reliability Engineering Workshops, ISSREW 2020",
+    "url": "https://doi.org/10.1109/ISSREW51248.2020.00077",
+    "type": "conference"
+  },
+  {
+    "key": "pahl2019cloud2",
+    "title": "Cloud container technologies: A state-of-the-art review",
+    "year": "2019",
+    "month": 0,
+    "authors": [
+      "Claus Pahl",
+      "Antonio Brogi",
+      "Jacopo Soldani",
+      "Pooyan Jamshidi"
+    ],
+    "venue": "IEEE Transactions on Cloud Computing",
+    "url": "https://doi.org/10.1109/TCC.2017.2702586",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2019estimating2",
+    "title": "Estimating costs of multi-component enterprise applications",
+    "year": "2019",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Andrea Corradini",
+      "Jacopo Soldani"
+    ],
+    "venue": "Formal Aspects of Computing",
+    "url": "https://doi.org/10.1007/s00165-019-00491-2",
+    "type": "journal"
+  },
+  {
+    "key": "guidotti2019helping2",
+    "title": "Helping your docker images to spread based on explainable models",
+    "year": "2019",
+    "month": 0,
+    "authors": [
+      "Riccardo Guidotti",
+      "Jacopo Soldani",
+      "Davide Neri",
+      "Antonio Brogi",
+      "Dino Pedreschi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-030-10997-4_13",
+    "type": "journal"
+  },
+  {
+    "key": "astuti2019making2",
+    "title": "Making a business out of (predictive application management in) the fog",
+    "year": "2019",
+    "month": 0,
+    "authors": [
+      "Giuseppe Astuti",
+      "Antonio Brogi",
+      "Stefano Forti"
+    ],
+    "venue": "2019 4th International Conference on Fog and Mobile Edge Computing, FMEC 2019",
+    "url": "https://doi.org/10.1109/FMEC.2019.8795346",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2019measuring2",
+    "title": "Measuring the Fog, Gently",
+    "year": "2019",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Stefano Forti",
+      "Marco Gaglianese"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-030-33702-5_40",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2019meet2",
+    "title": "Meet Genetic Algorithms in Monte Carlo: Optimised Placement of Multi-Service Applications in the Fog",
+    "year": "2019",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Stefano Forti",
+      "Carlos Guerrero",
+      "Isaac Lera"
+    ],
+    "venue": "Proceedings - 2019 IEEE International Conference on Edge Computing, EDGE 2019 - Part of the 2019 IEEE World Congress on Services",
+    "url": "https://doi.org/10.1109/EDGE.2019.00016",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2019message",
+    "title": "Message from the chairs",
+    "year": "2019",
+    "month": 0,
+    "authors": [
+      "A. Brogi",
+      "A. Bucchiarone",
+      "R. Capilla",
+      "P. Jamshidi",
+      "M. Leotta",
+      "Z. Mann",
+      "M. Mongiello",
+      "F. Nocera"
+    ],
+    "venue": "EnSEmble 2019 - Proceedings of the 2nd ACM SIGSOFT International Workshop on Ensemble-Based Software Engineering for Modern Computing Platforms, co-located with ESEC/FSE 2019",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "forti2019mimicking2",
+    "title": "Mimicking FogDirector application management",
+    "year": "2019",
+    "month": 0,
+    "authors": [
+      "Stefano Forti",
+      "Ahmad Ibrahim",
+      "Antonio Brogi"
+    ],
+    "venue": "Software-Intensive Cyber-Physical Systems",
+    "url": "https://doi.org/10.1007/s00450-019-00403-y",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2019optimising2",
+    "title": "Optimising QoS-assurance, resource usage and cost of fog application deployments",
+    "year": "2019",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Stefano Forti",
+      "Ahmad Ibrahim"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-030-29193-8_9",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2019predictive2",
+    "title": "Predictive analysis to support fog application deployment",
+    "year": "2019",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Stefano Forti",
+      "Ahmad Ibrahim"
+    ],
+    "venue": "",
+    "url": "https://doi.org/10.1002/9781119525080.ch9",
+    "type": "books"
+  },
+  {
+    "key": "brogi2019robust2",
+    "title": "Robust management of trans-cloud applications",
+    "year": "2019",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jose Carrasco",
+      "Francisco Duran",
+      "Ernesto Pimentel",
+      "Jacopo Soldani"
+    ],
+    "venue": "IEEE International Conference on Cloud Computing, CLOUD",
+    "url": "https://doi.org/10.1109/CLOUD.2019.00046",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2018microservice-based2",
+    "title": "A microservice-based architecture for (customisable) analyses of Docker images",
+    "year": "2018",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Davide Neri",
+      "Jacopo Soldani"
+    ],
+    "venue": "Software - Practice and Experience",
+    "url": "https://doi.org/10.1002/spe.2583",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2018analysing2",
+    "title": "Analysing Multiple QoS Attributes in Parallel Design Patterns-Based Applications",
+    "year": "2018",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Marco Danelutto",
+      "Daniele De Sensi",
+      "Ahmad Ibrahim",
+      "Jacopo Soldani",
+      "Massimo Torquati"
+    ],
+    "venue": "International Journal of Parallel Programming",
+    "url": "https://doi.org/10.1007/s10766-016-0476-8",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2018bonsai2",
+    "title": "Bonsai in the Fog: An active learning lab with Fog computing",
+    "year": "2018",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Stefano Forti",
+      "Ahmad Ibrahim",
+      "Luca Rinaldi"
+    ],
+    "venue": "2018 3rd International Conference on Fog and Mobile Edge Computing, FMEC 2018",
+    "url": "https://doi.org/10.1109/FMEC.2018.8364048",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2018container-based2",
+    "title": "Container-based support for autonomic data stream processing through the fog",
+    "year": "2018",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Gabriele Mencagli",
+      "Davide Neri",
+      "Jacopo Soldani",
+      "Massimo Torquati"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-319-75178-8_2",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2018deploying2",
+    "title": "Deploying fog applications: How much does it cost, by the way?",
+    "year": "2018",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Stefano Forti",
+      "Ahmad Ibrahim"
+    ],
+    "venue": "CLOSER 2018 - Proceedings of the 8th International Conference on Cloud Computing and Services Science",
+    "url": "https://doi.org/10.5220/0006676100680077",
+    "type": "conference"
+  },
+  {
+    "key": "guidotti2018explaining2",
+    "title": "Explaining successful docker images using pattern mining analysis",
+    "year": "2018",
+    "month": 0,
+    "authors": [
+      "Riccardo Guidotti",
+      "Jacopo Soldani",
+      "Davide Neri",
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-030-04771-9_9",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2018fault-aware2",
+    "title": "Fault-aware management protocols for multi-component applications",
+    "year": "2018",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Andrea Canciani",
+      "Jacopo Soldani"
+    ],
+    "venue": "Journal of Systems and Software",
+    "url": "https://doi.org/10.1016/j.jss.2018.02.005",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2018incomplete2",
+    "title": "From (incomplete) TOSCA specifications to running applications, with docker",
+    "year": "2018",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Davide Neri",
+      "Luca Rinaldi",
+      "Jacopo Soldani"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-319-74781-1_33",
+    "type": "journal"
+  },
+  {
+    "key": "hafid2018message",
+    "title": "Message from the general chairs",
+    "year": "2018",
+    "month": 0,
+    "authors": [
+      "Abdelhakim Senhaji Hafid",
+      "Antonio Brogi"
+    ],
+    "venue": "2018 3rd International Conference on Fog and Mobile Edge Computing, FMEC 2018",
+    "url": "https://doi.org/10.1109/FMEC.2018.8364028",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2018orchestrating2",
+    "title": "Orchestrating incomplete TOSCA applications with Docker",
+    "year": "2018",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Davide Neri",
+      "Luca Rinaldi",
+      "Jacopo Soldani"
+    ],
+    "venue": "Science of Computer Programming",
+    "url": "https://doi.org/10.1016/j.scico.2018.07.005",
+    "type": "journal"
+  },
+  {
+    "key": "bonchi2018simulation-based2",
+    "title": "Simulation-based matching of cloud applications",
+    "year": "2018",
+    "month": 0,
+    "authors": [
+      "Filippo Bonchi",
+      "Antonio Brogi",
+      "Andrea Canciani",
+      "Jacopo Soldani"
+    ],
+    "venue": "Science of Computer Programming",
+    "url": "https://doi.org/10.1016/j.scico.2017.06.001",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2018sommelier2",
+    "title": "Sommelier: a tool for validating TOSCA application topologies",
+    "year": "2018",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Antonio Di Tommaso",
+      "Jacopo Soldani"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-319-94764-8_1",
+    "type": "journal"
+  },
+  {
+    "key": "soldani2018pains",
+    "title": "The pains and gains of microservices: A Systematic grey literature review",
+    "year": "2018",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Damian Andrew Tamburri",
+      "Willem-Jan Van Den Heuvel"
+    ],
+    "venue": "Journal of Systems and Software",
+    "url": "https://doi.org/10.1016/j.jss.2018.09.082",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2018tosker3",
+    "title": "TosKer: A synergy between TOSCA and Docker for orchestrating multicomponent applications",
+    "year": "2018",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Luca Rinaldi",
+      "Jacopo Soldani"
+    ],
+    "venue": "Software - Practice and Experience",
+    "url": "https://doi.org/10.1002/spe.2625",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2018tosker4",
+    "title": "TosKer: Orchestrating Applications with TOSCA and Docker",
+    "year": "2018",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Luca Rinaldi",
+      "Jacopo Soldani"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-319-79090-9_9",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2018towards2",
+    "title": "Towards a reference dataset of microservice-based applications",
+    "year": "2018",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Andrea Canciani",
+      "Davide Neri",
+      "Luca Rinaldi",
+      "Jacopo Soldani"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-319-74781-1_16",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2018true2",
+    "title": "True concurrent management of multi-component applications",
+    "year": "2018",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Andrea Canciani",
+      "Jacopo Soldani"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-319-99819-0_2",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2017application",
+    "title": "Application Deployment through the Fog",
+    "year": "2017",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi"
+    ],
+    "venue": "Proceedings - International Computer Software and Applications Conference",
+    "url": "https://doi.org/10.1109/COMPSAC.2017.284",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2017dockerfinder2",
+    "title": "DockerFinder: Multi-attribute search of docker images",
+    "year": "2017",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Davide Neri",
+      "Jacopo Soldani"
+    ],
+    "venue": "Proceedings - 2017 IEEE International Conference on Cloud Engineering, IC2E 2017",
+    "url": "https://doi.org/10.1109/IC2E.2017.41",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2017draco2",
+    "title": "DrACO: Discovering available cloud offerings",
+    "year": "2017",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Paolo Cifariello",
+      "Jacopo Soldani"
+    ],
+    "venue": "Computer Science - Research and Development",
+    "url": "https://doi.org/10.1007/s00450-016-0332-5",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2017how2",
+    "title": "How to Best Deploy Your Fog Applications, Probably",
+    "year": "2017",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Stefano Forti",
+      "Ahmad Ibrahim"
+    ],
+    "venue": "Proceedings - 2017 IEEE 1st International Conference on Fog and Edge Computing, ICFEC 2017",
+    "url": "https://doi.org/10.1109/ICFEC.2017.8",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2017modelling2",
+    "title": "Modelling the dynamic reconfiguration of application topologies, faults included",
+    "year": "2017",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Andrea Canciani",
+      "Jacopo Soldani"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-319-59746-1_10",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2017qos-aware2",
+    "title": "QoS-aware deployment of IoT applications through the fog",
+    "year": "2017",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Stefano Forti"
+    ],
+    "venue": "IEEE Internet of Things Journal",
+    "url": "https://doi.org/10.1109/JIOT.2017.2701408",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2017validating2",
+    "title": "Validating TOSCA application topologies",
+    "year": "2017",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Antonio Di Tommaso",
+      "Jacopo Soldani"
+    ],
+    "venue": "MODELSWARD 2017 - Proceedings of the 5th International Conference on Model-Driven Engineering and Software Development",
+    "url": "https://doi.org/10.5220/0006244006670678",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2016petri2",
+    "title": "A petri net-based approach to model and analyze the management of cloud applications",
+    "year": "2016",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Andrea Canciani",
+      "Jacopo Soldani",
+      "Peng Wei Wang"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-662-53401-4_2",
+    "type": "journal"
+  },
+  {
+    "key": "barrientos2016adaptive",
+    "title": "Adaptive application management over multiple clouds",
+    "year": "2016",
+    "month": 0,
+    "authors": [
+      "M. Barrientos",
+      "A. Brogi",
+      "M. Buccarella",
+      "J. Carrasco",
+      "J. Cubo",
+      "F. D’Andria",
+      "E. Di Nitto",
+      "A. Nieto",
+      "M. Oriol",
+      "D. Pérez",
+      "E. Pimentel",
+      "S. Zenzaro"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "",
+    "type": "journal"
+  },
+  {
+    "key": "bartoloni2016automated",
+    "title": "Automated prediction of the QoS of service orchestrations: PASO at work",
+    "year": "2016",
+    "month": 0,
+    "authors": [
+      "Leonardo Bartoloni",
+      "Antonio Brogi",
+      "Ahmad Ibrahim"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-319-33313-7_8",
+    "type": "journal"
+  },
+  {
+    "key": "bonchi2016behaviour-aware2",
+    "title": "Behaviour-Aware Matching of Cloud Applications",
+    "year": "2016",
+    "month": 0,
+    "authors": [
+      "Filippo Bonchi",
+      "Antonio Brogi",
+      "Andrea Canciani",
+      "Jacopo Soldani"
+    ],
+    "venue": "Proceedings - 10th International Symposium on Theoretical Aspects of Software Engineering, TASE 2016",
+    "url": "https://doi.org/10.1109/TASE.2016.32",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2016fault-aware2",
+    "title": "Fault-aware application management protocols",
+    "year": "2016",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Andrea Canciani",
+      "Jacopo Soldani"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-319-44482-6_14",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2016finding2",
+    "title": "Finding available services in TOSCA-compliant clouds",
+    "year": "2016",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jacopo Soldani"
+    ],
+    "venue": "Science of Computer Programming",
+    "url": "https://doi.org/10.1016/j.scico.2015.09.004",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2016preface",
+    "title": "Preface of EU projects track",
+    "year": "2016",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Silvana Muscella"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2016seaclouds2",
+    "title": "SeaClouds: An open reference architecture for multi-cloud governance",
+    "year": "2016",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jose Carrasco",
+      "Javier Cubo",
+      "Francesco D’Andria",
+      "Elisabetta Di Nitto",
+      "Michele Guerriero",
+      "Diego Pérez",
+      "Ernesto Pimentel",
+      "Jacopo Soldani"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-319-48992-6_25",
+    "type": "journal"
+  },
+  {
+    "key": "soldani2016toscamart2",
+    "title": "ToscaMart: A method for adapting and reusing cloud applications",
+    "year": "2016",
+    "month": 0,
+    "authors": [
+      "Jacopo Soldani",
+      "Tobias Binz",
+      "Uwe Breitenbücher",
+      "Frank Leymann",
+      "Antonio Brogi"
+    ],
+    "venue": "Journal of Systems and Software",
+    "url": "https://doi.org/10.1016/j.jss.2015.12.025",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2015modelling3",
+    "title": "Modelling and analysing cloud application management",
+    "year": "2015",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Andrea Canciani",
+      "Jacopo Soldani"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-319-24072-5_2",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2015modelling4",
+    "title": "Modelling the behaviour of management operations in cloud-based applications?",
+    "year": "2015",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Andrea Canciani",
+      "Jacopo Soldani",
+      "Peng Wei Wang"
+    ],
+    "venue": "CEUR Workshop Proceedings",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "athanasopoulos2015seaclouds",
+    "title": "SeaClouds: Agile management of complex applications across multiple heterogeneous clouds",
+    "year": "2015",
+    "month": 0,
+    "authors": [
+      "D. Athanasopoulos",
+      "M. Barrientos",
+      "L. Bartoloni",
+      "A. Brogi",
+      "M. Buccarella",
+      "J. Carrasco",
+      "J. Cubo",
+      "F. D'Andria",
+      "E. Di Nitto",
+      "A. Nieto",
+      "M. Oriol",
+      "E. Pimentel",
+      "S. Zenzaro"
+    ],
+    "venue": "CEUR Workshop Proceedings",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2015workshop",
+    "title": "Workshop on seamless adaptive multi-cloud management of service-based applications (Seaclouds): Preface",
+    "year": "2015",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Ernesto Pimentel"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-319-14886-1_22",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2014dynamic",
+    "title": "Dynamic verification of mashups of service-oriented things through a mediation platform",
+    "year": "2014",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Javier Cubo",
+      "Laura González",
+      "Ernesto Pimentel",
+      "R. Ruggia"
+    ],
+    "venue": "Journal of Universal Computer Science",
+    "url": "",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2014eu2",
+    "title": "EU project SeaClouds adaptive management of service-based applications across multiple clouds",
+    "year": "2014",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jośe Carrasco",
+      "Javier Cubo",
+      "Francesco D'Andria",
+      "Ahmad Ibrahim",
+      "Ernesto Pimentel",
+      "Jacopo Soldani"
+    ],
+    "venue": "CLOSER 2014 - Proceedings of the 4th International Conference on Cloud Computing and Services Science",
+    "url": "https://doi.org/10.5220/0004979507580763",
+    "type": "conference"
+  },
+  {
+    "key": "bartoloni2014probabilistic",
+    "title": "Probabilistic prediction of the QoS of service orchestrations: A truly compositional approach",
+    "year": "2014",
+    "month": 0,
+    "authors": [
+      "Leonardo Bartoloni",
+      "Antonio Brogi",
+      "Ahmad Ibrahim"
+    ],
+    "venue": "Lecture Notes in Computer Science",
+    "url": "https://doi.org/10.1007/978-3-662-45391-9_27",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2014reusing2",
+    "title": "Reusing cloud-based services with TOSCA",
+    "year": "2014",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jacopo Soldani"
+    ],
+    "venue": "Lecture Notes in Informatics (LNI), Proceedings - Series of the Gesellschaft fur Informatik (GI)",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2014seaclouds2",
+    "title": "SeaClouds: Seamless adaptive multi-cloud management of service-based applications",
+    "year": "2014",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "José Carrasco",
+      "Javier Cubo",
+      "Francesco D'Andria",
+      "Ahmad Ibrahim",
+      "Ernesto Pimentel",
+      "Jacopo Soldani"
+    ],
+    "venue": "CIBSE 2014: Proceedings of the 17th Ibero-American Conference Software Engineering",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2014tosca2",
+    "title": "TOSCA in a nutshell: Promises and perspectives",
+    "year": "2014",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jacopo Soldani",
+      "PengWei Wang"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-662-44879-3_13",
+    "type": "journal"
+  },
+  {
+    "key": "zenzaro2014webasm",
+    "title": "WebASM: An abstract state machine execution environment for the web",
+    "year": "2014",
+    "month": 0,
+    "authors": [
+      "Simone Zenzaro",
+      "Vincenzo Gervasi",
+      "Jacopo Soldani"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-662-43652-3_19",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2013matching2",
+    "title": "Matching Cloud Services with TOSCA",
+    "year": "2013",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jacopo Soldani"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-642-45364-9_18",
+    "type": "journal"
+  },
+  {
+    "key": "gonzález2013run-time",
+    "title": "Run-Time Verification of Behaviour-Aware Mashups in the Internet of Things",
+    "year": "2013",
+    "month": 0,
+    "authors": [
+      "Laura González",
+      "Javier Cubo",
+      "Antonio Brogi",
+      "Ernesto Pimentel",
+      "Raúl Ruggia"
+    ],
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-642-45364-9_26",
+    "type": "journal"
+  },
+  {
+    "key": "popescu2012formalized",
+    "title": "A formalized, taxonomy-driven approach to cross-layer application adaptation",
+    "year": "2012",
+    "month": 0,
+    "authors": [
+      "Razvan Popescu",
+      "Athanasios Staikopoulos",
+      "Antonio Brogi",
+      "Peng Liu",
+      "Siobhán Clarke"
+    ],
+    "venue": "ACM Transactions on Autonomous and Adaptive Systems",
+    "url": "https://doi.org/10.1145/2168260.2168267",
+    "type": "journal"
+  },
+  {
+    "key": "cubo2012behaviour-aware",
+    "title": "Behaviour-aware compositions of things",
+    "year": "2012",
+    "month": 0,
+    "authors": [
+      "Javier Cubo",
+      "Antonio Brogi",
+      "Ernesto Pimentel"
+    ],
+    "venue": "Proceedings - 2012 IEEE Int. Conf. on Green Computing and Communications, GreenCom 2012, Conf. on Internet of Things, iThings 2012 and Conf. on Cyber, Physical and Social Computing, CPSCom 2012",
+    "url": "https://doi.org/10.1109/GreenCom.2012.11",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2012guest",
+    "title": "Guest editors' foreword",
+    "year": "2012",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Gerardo Schneider"
+    ],
+    "venue": "Journal of Logic and Algebraic Programming",
+    "url": "https://doi.org/10.1016/j.jlap.2011.12.003",
+    "type": "journal"
+  },
+  {
+    "key": "martín2012learning",
+    "title": "Learning from failures: A lightweight approach to run-time behavioural adaptation",
+    "year": "2012",
+    "month": 0,
+    "authors": [
+      "José Antonio Martín",
+      "Antonio Brogi",
+      "Ernesto Pimentel"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-642-35743-5_16",
+    "type": "journal"
+  },
+  {
+    "key": "marconi2012research",
+    "title": "Research challenges on multi-layer and mixed-initiative monitoring and adaptation for service-based systems",
+    "year": "2012",
+    "month": 0,
+    "authors": [
+      "Annapaola Marconi",
+      "Antonio Bucchiarone",
+      "Konstantinos Bratanis",
+      "Antonio Brogi",
+      "Javier Camara",
+      "Dimitris Dranidis",
+      "Holger Giese",
+      "Raman Kazhamiakink",
+      "Rogerio De Lemos",
+      "Clarissa Cassales Marquezan",
+      "Andreas Metzger"
+    ],
+    "venue": "2012 1st International Workshop on European Software Services and Systems Research - Results and Challenges, S-Cube 2012 - Proceedings",
+    "url": "https://doi.org/10.1109/S-Cube.2012.6225509",
+    "type": "conference"
+  },
+  {
+    "key": "cubo2012towards",
+    "title": "Towards behaviour-aware compositions of things in the future internet",
+    "year": "2012",
+    "month": 0,
+    "authors": [
+      "Javier Cubo",
+      "Antonio Brogi",
+      "Ernesto Pimentel"
+    ],
+    "venue": "ACM International Conference Proceeding Series",
+    "url": "https://doi.org/10.1145/2377836.2377844",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2011potential",
+    "title": "On the potential advantages of exploiting behavioural information for contract-based service discovery and composition",
+    "year": "2011",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi"
+    ],
+    "venue": "Journal of Logic and Algebraic Programming",
+    "url": "https://doi.org/10.1016/j.jlap.2010.01.001",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2010analysing",
+    "title": "Analysing the behaviour of peer speciffcations for mobile P2P applications",
+    "year": "2010",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Sara Corfini"
+    ],
+    "venue": "CIbSE 2010 - Actas - 13th Conferencia Iberoamericana en \"Software Engineering\"",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2010design",
+    "title": "Design and implementation of SATOR: A web service aggregator",
+    "year": "2010",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Razvan Popescu",
+      "Matteo Tanca"
+    ],
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/1656250.1656254",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2010proceedings",
+    "title": "Proceedings - 8th IEEE European Conference on Web Services, ECOWS 2010: Preface",
+    "year": "2010",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Cesare Pautasso",
+      "George Angelos Papadopoulos"
+    ],
+    "venue": "Proceedings - 8th IEEE European Conference on Web Services, ECOWS 2010",
+    "url": "https://doi.org/10.1109/ECOWS.2010.4",
+    "type": "conference"
+  },
+  {
+    "key": "popescu2010taxonomy-driven",
+    "title": "Taxonomy-driven adaptation of multi-layer applications using templates",
+    "year": "2010",
+    "month": 0,
+    "authors": [
+      "Razvan Popescu",
+      "Athanasios Staikopoulos",
+      "Peng Liu",
+      "Antonio Brogi",
+      "Siobhán Clarke"
+    ],
+    "venue": "Proceedings - 2010 4th IEEE International Conference on Self-Adaptive and Self-Organizing Systems, SASO 2010",
+    "url": "https://doi.org/10.1109/SASO.2010.23",
+    "type": "conference"
+  },
+  {
+    "key": "bonchi2009net-based",
+    "title": "A net-based approach to web services publication and replaceability",
+    "year": "2009",
+    "month": 0,
+    "authors": [
+      "Filippo Bonchi",
+      "Antonio Brogi",
+      "Sara Corfini",
+      "Fabio Gadducci"
+    ],
+    "venue": "Fundamenta Informaticae",
+    "url": "https://doi.org/10.3233/FI-2009-133",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2009two-tiered",
+    "title": "A two-tiered approach to enabling enhanced service discovery in embedded peer-to-peer systems",
+    "year": "2009",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Sara Corfini",
+      "Thaizel Fuentes"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-642-10383-4_5",
+    "type": "journal"
+  },
+  {
+    "key": "alferes2009evolving",
+    "title": "Evolving reactive logic programs",
+    "year": "2009",
+    "month": 0,
+    "authors": [
+      "Jose Julio Alferes",
+      "Federico Banti",
+      "Antonio Brogi"
+    ],
+    "venue": "CEUR Workshop Proceedings",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2009owl-s",
+    "title": "From OWL-S descriptions to petri nets",
+    "year": "2009",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Sara Corfini",
+      "Stefano Iardella"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-540-93851-4_41",
+    "type": "journal"
+  },
+  {
+    "key": "roldan2009software",
+    "title": "Software composition with Linda",
+    "year": "2009",
+    "month": 0,
+    "authors": [
+      "Ana M. Roldan",
+      "Ernesto Pimentel",
+      "Antonio Brogi"
+    ],
+    "venue": "Computer Languages, Systems and Structures",
+    "url": "https://doi.org/10.1016/j.cl.2008.08.002",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2008service-oriented",
+    "title": "A Service-Oriented Model for Embedded Peer-to-Peer Systems",
+    "year": "2008",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Rǎzvan Popescu",
+      "Francisco Gutiérrez",
+      "Pablo López",
+      "Ernesto Pimentel"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/j.entcs.2008.03.096",
+    "type": "journal"
+  },
+  {
+    "key": "bonchi2008compositional",
+    "title": "Compositional specification of web services via behavioural equivalence of nets: A case Study",
+    "year": "2008",
+    "month": 0,
+    "authors": [
+      "Filippo Bonchi",
+      "Antonio Brogi",
+      "Sara Corfini",
+      "Fabio Gadducci"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-540-68746-7_8",
+    "type": "journal"
+  },
+  {
+    "key": "bonchi2008use",
+    "title": "On the use of behavioural equivalences for web services' development",
+    "year": "2008",
+    "month": 0,
+    "authors": [
+      "Filippo Bonchi",
+      "Antonio Brogi",
+      "Sara Corfini",
+      "Fabio Gadducci"
+    ],
+    "venue": "Fundamenta Informaticae",
+    "url": "",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2008ontology-",
+    "title": "Ontology- and behavior-aware discovery of web service compositions",
+    "year": "2008",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Sara Corfini"
+    ],
+    "venue": "International Journal of Cooperative Information Systems",
+    "url": "https://doi.org/10.1142/S0218843008001853",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2008p2p",
+    "title": "P2P systems modeling with exception handling; [Modelado de sistemas P2P con control de excepciones]",
+    "year": "2008",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Francisco Gutiérrez",
+      "Pablo López",
+      "Ernesto Pimentel",
+      "Razvan Popescu"
+    ],
+    "venue": "Memorias de la 11th Conferencia Iberoamericana de Software Engineering - CIbSE 2008",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "benigni2008secure",
+    "title": "Secure P2P programming on top of tuple spaces",
+    "year": "2008",
+    "month": 0,
+    "authors": [
+      "F. Benigni",
+      "A. Brogi",
+      "J.L. Buchholz",
+      "J.M. Jacquet",
+      "J. Lange",
+      "R. Popescu"
+    ],
+    "venue": "Proceedings of the Workshop on Enabling Technologies: Infrastructure for Collaborative Enterprises, WETICE",
+    "url": "https://doi.org/10.1109/WETICE.2008.29",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2008semantics-based",
+    "title": "Semantics-based composition-oriented discovery of Web services",
+    "year": "2008",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Sara Corfini",
+      "Razvan Popescu"
+    ],
+    "venue": "ACM Transactions on Internet Technology",
+    "url": "https://doi.org/10.1145/1391949.1391953",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2008workflow",
+    "title": "Workflow semantics of peer and service behaviour",
+    "year": "2008",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Razvan Popescu"
+    ],
+    "venue": "Proceedings - 2nd IFIP/IEEE International Symposium on Theoretical Aspects of Software Engineering, TASE 2008",
+    "url": "https://doi.org/10.1109/TASE.2008.28",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2008workflow-based",
+    "title": "Workflow-based semantics for peer-to-peer specifications",
+    "year": "2008",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Razvan Popescu"
+    ],
+    "venue": "Frontiers of Computer Science in China",
+    "url": "https://doi.org/10.1007/s11704-008-0038-3",
+    "type": "journal"
+  },
+  {
+    "key": "bonchi2007behavioural",
+    "title": "A behavioural congruence for web services",
+    "year": "2007",
+    "month": 0,
+    "authors": [
+      "Filippo Bonchi",
+      "Antonio Brogi",
+      "Sara Corfini",
+      "Fabio Gadducci"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-540-75698-9_16",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2007behaviour-aware",
+    "title": "Behaviour-aware discovery of web service compositions",
+    "year": "2007",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Sara Corfini"
+    ],
+    "venue": "International Journal of Web Services Research",
+    "url": "https://doi.org/10.4018/jwsr.2007070101",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2007behavioural",
+    "title": "Behavioural Types for Service Integration: Achievements and Challenges",
+    "year": "2007",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Carlos Canal",
+      "Ernesto Pimentel"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/j.entcs.2006.10.045",
+    "type": "journal"
+  },
+  {
+    "key": "benigni2007discovering",
+    "title": "Discovering service compositions that feature a desired behaviour",
+    "year": "2007",
+    "month": 0,
+    "authors": [
+      "Fabrizio Benigni",
+      "Antonio Brogi",
+      "Sara Corfini"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-540-74974-5_5",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2007dynamic",
+    "title": "Dynamic Contextual Adaptation",
+    "year": "2007",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Javier Cámara",
+      "Carlos Canal",
+      "Javier Cubo",
+      "Ernesto Pimentel"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/j.entcs.2007.03.005",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2007sam",
+    "title": "SAM: A semantic web service discovery system",
+    "year": "2007",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Sara Corfini"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-540-74829-8_86",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2007service",
+    "title": "Service adaptation through trace inspection",
+    "year": "2007",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Razvan Popescu"
+    ],
+    "venue": "International Journal of Business Process Integration and Management",
+    "url": "https://doi.org/10.1504/IJBPIM.2007.014100",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2006prototype",
+    "title": "A prototype for discovering compositions of semantic web services",
+    "year": "2006",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Sara Corfini",
+      "José F. Aldana",
+      "Ismael Navas"
+    ],
+    "venue": "CEUR Workshop Proceedings",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "alferes2006event-condition-action",
+    "title": "An event-condition-action logic programming language",
+    "year": "2006",
+    "month": 0,
+    "authors": [
+      "J.J. Alferes",
+      "F. Banti",
+      "A. Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/11853886_5",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2006automated1",
+    "title": "Automated discovery of compositions of services described with separate ontologies",
+    "year": "2006",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Sara Corfini",
+      "José F. Aldana",
+      "Ismael Navas"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/11948148_48",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2006automated2",
+    "title": "Automated generation of BPEL adapters",
+    "year": "2006",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Razvan Popescu"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/11948148_3",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2006component",
+    "title": "Component adaptation through flexible subservicing",
+    "year": "2006",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Carlos Canal",
+      "Ernesto Pimentel"
+    ],
+    "venue": "Science of Computer Programming",
+    "url": "https://doi.org/10.1016/j.scico.2005.07.012",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2006bpel",
+    "title": "From BPEL processes to YAWL workflows",
+    "year": "2006",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Razvan Popescu"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/11841197_7",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2006fully",
+    "title": "Fully abstract semantics for a coordination model with asynchronous communication and enhanced matching",
+    "year": "2006",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jean-Marie Jacquet",
+      "Isabelle Linden"
+    ],
+    "venue": "Fundamenta Informaticae",
+    "url": "",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2006fundamenta",
+    "title": "Fundamenta Informaticae: Preface",
+    "year": "2006",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jean-Marie Jacquet",
+      "Joost Kok"
+    ],
+    "venue": "Fundamenta Informaticae",
+    "url": "",
+    "type": "journal"
+  },
+  {
+    "key": "linden2006expressiveness",
+    "title": "On the expressiveness of timed coordination models",
+    "year": "2006",
+    "month": 0,
+    "authors": [
+      "I. Linden",
+      "J.-M. Jacquet",
+      "K. De Bosschere",
+      "A. Brogi"
+    ],
+    "venue": "Science of Computer Programming",
+    "url": "https://doi.org/10.1016/j.scico.2005.10.011",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2006semantics",
+    "title": "On the semantics of software adaptation",
+    "year": "2006",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Carlos Canal",
+      "Ernesto Pimentel"
+    ],
+    "venue": "Science of Computer Programming",
+    "url": "https://doi.org/10.1016/j.scico.2005.10.009",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2006preface",
+    "title": "Preface",
+    "year": "2006",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jean-Marie Jacquet",
+      "Jeff Kramer",
+      "Ernesto Pimentel"
+    ],
+    "venue": "Science of Computer Programming",
+    "url": "https://doi.org/10.1016/j.scico.2005.10.007",
+    "type": "journal"
+  },
+  {
+    "key": "becker2006towards",
+    "title": "Towards an engineering approach to component adaptation",
+    "year": "2006",
+    "month": 0,
+    "authors": [
+      "Steffen Becker",
+      "Antonio Brogi",
+      "Ian Gorton",
+      "Sven Overhage",
+      "Alexander Romanovsky",
+      "Massimo Tivoli"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/11786160_11",
+    "type": "journal"
+  },
+  {
+    "key": "bracciali2005formal",
+    "title": "A formal approach to component adaptation",
+    "year": "2005",
+    "month": 0,
+    "authors": [
+      "Andrea Bracciali",
+      "Antonio Brogi",
+      "Carlos Canal"
+    ],
+    "venue": "Journal of Systems and Software",
+    "url": "https://doi.org/10.1016/j.jss.2003.05.007",
+    "type": "journal"
+  },
+  {
+    "key": "bracciali2005framework",
+    "title": "A framework for specifying and verifying the behaviour of open systems",
+    "year": "2005",
+    "month": 0,
+    "authors": [
+      "Andrea Bracciali",
+      "Antonio Brogi",
+      "Franco Turini"
+    ],
+    "venue": "Journal of Logic and Algebraic Programming",
+    "url": "https://doi.org/10.1016/j.jlap.2004.05.004",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2005composition-oriented",
+    "title": "Composition-oriented service discovery",
+    "year": "2005",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Sara Corfini",
+      "Razvan Popescu"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/11550679_2",
+    "type": "journal"
+  },
+  {
+    "key": "alferes2005logic",
+    "title": "From logic programs updates to action description updates",
+    "year": "2005",
+    "month": 0,
+    "authors": [
+      "José Júlio Alferes",
+      "Federico Banti",
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/11533092_4",
+    "type": "journal"
+  },
+  {
+    "key": "banti2005operational",
+    "title": "Operational semantics for dyLPs",
+    "year": "2005",
+    "month": 0,
+    "authors": [
+      "F. Banti",
+      "J.J. Alferes",
+      "A. Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/11595014_5",
+    "type": "journal"
+  },
+  {
+    "key": "alferes2005refined",
+    "title": "The refined extension principle for semantics of dynamic logic programming",
+    "year": "2005",
+    "month": 0,
+    "authors": [
+      "José Júlio Alferes",
+      "Federico Banti",
+      "Antonio Brogi",
+      "João Alexandre Leite"
+    ],
+    "venue": "Studia Logica",
+    "url": "https://doi.org/10.1007/s11225-005-0492-y",
+    "type": "journal"
+  },
+  {
+    "key": "banti2005well",
+    "title": "The well supported semantics for multidimensional dynamic logic programs",
+    "year": "2005",
+    "month": 0,
+    "authors": [
+      "F. Banti",
+      "J.J. Alferes",
+      "A. Brogi",
+      "P. Hitzler"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/11546207_28",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2005towards",
+    "title": "Towards semi-automated workflow-based aggregation of web services",
+    "year": "2005",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Razvan Popescu"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/11596141_17",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2004behavioural",
+    "title": "Behavioural types and component adaptation",
+    "year": "2004",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Carlos Canal",
+      "Ernesto Pimentel"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-540-27815-3_8",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2004electronic",
+    "title": "Electronic Notes in Theoretical Computer Science: Preface",
+    "year": "2004",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jean-Marie Jacquet",
+      "Ernesto Pimentel"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/j.entcs.2004.04.029",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2004formalizing",
+    "title": "Formalizing Web service choreographies",
+    "year": "2004",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Carlos Canal",
+      "Ernesto Pimentel",
+      "Antonio Vallecillo"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/j.entcs.2004.05.007",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2004measuring",
+    "title": "Measuring component adaptation",
+    "year": "2004",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Carlos Canal",
+      "Ernesto Pimentel"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-540-24634-3_8",
+    "type": "journal"
+  },
+  {
+    "key": "linden2004expressiveness",
+    "title": "On the expressiveness of relative-timed coordination models",
+    "year": "2004",
+    "month": 0,
+    "authors": [
+      "I. Linden",
+      "J.-M. Jacquet",
+      "K. De Bosschere",
+      "A. Brogi"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/j.entcs.2004.04.034",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2004semantics",
+    "title": "On the semantics of logic program composition",
+    "year": "2004",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-540-25951-0_5",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2004specification",
+    "title": "On the specification of software adaptation",
+    "year": "2004",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Carlos Canal",
+      "Ernesto Pimentel"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/j.entcs.2004.04.031",
+    "type": "journal"
+  },
+  {
+    "key": "alferes2004semantics",
+    "title": "Semantics for dynamic logic programming: A principle-based approach",
+    "year": "2004",
+    "month": 0,
+    "authors": [
+      "José J. Alferes",
+      "Federico Banti",
+      "Antonio Brogi",
+      "João A. Leite"
+    ],
+    "venue": "Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science)",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "banti2004well",
+    "title": "Well founded semantics for logic program updates",
+    "year": "2004",
+    "month": 0,
+    "authors": [
+      "F. Banti",
+      "J.J. Alferes",
+      "A. Brogi"
+    ],
+    "venue": "Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science)",
+    "url": "https://doi.org/10.1007/978-3-540-30498-2_40",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2003deductive",
+    "title": "A deductive database approach to A.I. planning",
+    "year": "2003",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "V.S. Subrahmanian",
+      "Carlo Zaniolo"
+    ],
+    "venue": "Journal of Intelligent Information Systems",
+    "url": "https://doi.org/10.1023/A:1022808724136",
+    "type": "journal"
+  },
+  {
+    "key": "alferes2003evolvable",
+    "title": "An evolvable rule-based E-mail agent",
+    "year": "2003",
+    "month": 0,
+    "authors": [
+      "J.J. Alferes",
+      "A. Brogi",
+      "J.A. Leite",
+      "Luís Moniz Pereira"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/978-3-540-24580-3_45",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2003electronic",
+    "title": "Electronic Notes in Theoretical Computer Science: Preface",
+    "year": "2003",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jean-Marie Jacquet"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/S1571-0661(05)01369-1",
+    "type": "journal"
+  },
+  {
+    "key": "alferes2003logic",
+    "title": "Logic programming for evolving agents",
+    "year": "2003",
+    "month": 0,
+    "authors": [
+      "Jose J. Alferes",
+      "Antonio Brogi",
+      "Joao A. Leite",
+      "Luis M. Pereira"
+    ],
+    "venue": "Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science)",
+    "url": "https://doi.org/10.1007/978-3-540-45217-1_21",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2003modeling",
+    "title": "On modeling coordination via asynchronous communication and enhanced matching",
+    "year": "2003",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jean-Marie Jacquet",
+      "Isabelle Linden"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/S1571-0661(05)82568-X",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2003expressiveness",
+    "title": "On the expressiveness of coordination via shared dataspaces",
+    "year": "2003",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jean-Marie Jacquet"
+    ],
+    "venue": "Science of Computer Programming",
+    "url": "https://doi.org/10.1016/S0167-6423(02)00087-4",
+    "type": "journal"
+  },
+  {
+    "key": "roldan2003safe",
+    "title": "Safe composition of linda-based components",
+    "year": "2003",
+    "month": 0,
+    "authors": [
+      "Ana M. Roldan",
+      "Ernesto Pimentel",
+      "Antonio Brogi"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/S1571-0661(04)81036-3",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2003soft",
+    "title": "Soft component adaptation",
+    "year": "2003",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Carlos Canal",
+      "Ernesto Pimentel"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/S1571-0661(04)80681-9",
+    "type": "journal"
+  },
+  {
+    "key": "bracciali2002adapting",
+    "title": "Adapting components with mismatching behaviours",
+    "year": "2002",
+    "month": 0,
+    "authors": [
+      "Andrea Bracciali",
+      "Antonio Brogi",
+      "Carlos Canal"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-45440-3_13",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2002comparative",
+    "title": "Comparative analysis of the expressiveness of shared dataspace coordination",
+    "year": "2002",
+    "month": 0,
+    "authors": [
+      "A. Brogi",
+      "N. Busi",
+      "M. Gabbrielli",
+      "Gianluigi Zavattaro"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/S1571-0661(04)00322-6",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2002compatibility",
+    "title": "Compatibility of linda-based component interfaces",
+    "year": "2002",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Ernesto Pimentel",
+      "Ana M. Roldán"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/S1571-0661(04)80451-1",
+    "type": "journal"
+  },
+  {
+    "key": "alferes2002computing",
+    "title": "Computing environment-aware agent behaviours with logic program updates",
+    "year": "2002",
+    "month": 0,
+    "authors": [
+      "Jose J. Alferes",
+      "Antonio Brogi",
+      "Joao A. Leite",
+      "Luis M. Pereira"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-45607-4_12",
+    "type": "journal"
+  },
+  {
+    "key": "bracciali2002dynamically",
+    "title": "Dynamically adapting the behaviour of software components",
+    "year": "2002",
+    "month": 0,
+    "authors": [
+      "Andrea Bracciali",
+      "Antonio Brogi",
+      "Carlos Canal"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-46000-4_10",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2002electronics",
+    "title": "Electronics Notes in Theoretical Computer Science: Preface",
+    "year": "2002",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Ernesto Pimentel"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/S1571-0661(05)80454-2",
+    "type": "journal"
+  },
+  {
+    "key": "alferes2002evolving",
+    "title": "Evolving logic programs",
+    "year": "2002",
+    "month": 0,
+    "authors": [
+      "José Júlio Alferes",
+      "Antonio Brogi",
+      "João Alexandre Leite",
+      "Luís Moniz Pereira"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-45757-7_5",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2002linear",
+    "title": "Linear embedding for a quantitative comparison of language expressiveness",
+    "year": "2002",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Alessandra Di Pierro",
+      "Herbert Wiklicky"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/S1571-0661(04)00289-0",
+    "type": "journal"
+  },
+  {
+    "key": "bracciali2002systematic",
+    "title": "Systematic component adaptation",
+    "year": "2002",
+    "month": 0,
+    "authors": [
+      "Andrea Bracciali",
+      "Antonio Brogi",
+      "Carlos Canal"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/S1571-0661(04)80452-3",
+    "type": "journal"
+  },
+  {
+    "key": "bracciali2001coordinating",
+    "title": "Coordinating interaction patterns",
+    "year": "2001",
+    "month": 0,
+    "authors": [
+      "Andrea Bracciali",
+      "Antonio Brogi",
+      "Franco Turini"
+    ],
+    "venue": "Proceedings of the ACM Symposium on Applied Computing",
+    "url": "https://doi.org/10.1145/372202.372305",
+    "type": "conference"
+  },
+  {
+    "key": "brogi2001subject",
+    "title": "From subject directories to subject meta-directories via declarative programming",
+    "year": "2001",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Gianluca Caruso"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-45241-9_4",
+    "type": "journal"
+  },
+  {
+    "key": "brogi2001probabilistic",
+    "title": "Probabilistic behaviours of reactive agents",
+    "year": "2001",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/S1571-0661(04)00159-8",
+    "type": "journal"
+  },
+  {
+    "key": "bracciali2001security",
+    "title": "Security issues in component-based design",
+    "year": "2001",
+    "month": 0,
+    "authors": [
+      "A. Bracciali",
+      "A. Brogi",
+      "G. Ferrari",
+      "E. Tuosto"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/S1571-0661(04)00234-8",
+    "type": "journal"
+  },
+  {
+    "key": "jacquet2000timed",
+    "title": "On timed coordination languages",
+    "year": "2000",
+    "month": 0,
+    "authors": [
+      "J.-M. Jacquet",
+      "K. De Bosschere",
+      "A. Brogi"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-45263-x_6",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1999dynamic",
+    "title": "Dynamic composition of parameterised logic modules",
+    "year": "1999",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Chiara Renso",
+      "Franco Turini"
+    ],
+    "venue": "Computer Languages",
+    "url": "https://doi.org/10.1016/S0096-0551(00)00006-0",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1999expressiveness",
+    "title": "On the expressiveness of coordination models",
+    "year": "1999",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jean-Marie Jacquet"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-48919-3_11",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1999programming",
+    "title": "Programming by combining general logic programs",
+    "year": "1999",
+    "month": 0,
+    "authors": [
+      "A. Brogi",
+      "S. Contiero",
+      "F. Turini"
+    ],
+    "venue": "Journal of Logic and Computation",
+    "url": "https://doi.org/10.1093/logcom/9.1.7",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1998program",
+    "title": "A program specialiser for meta-level compositions of logic programs",
+    "year": "1998",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Simone Contiero"
+    ],
+    "venue": "New Generation Computing",
+    "url": "https://doi.org/10.1007/BF03037314",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1998expressiveness",
+    "title": "On the expressiveness of Linda-like concurrent languages",
+    "year": "1998",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jean-Marie Jacquet"
+    ],
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/S1571-0661(04)00118-5",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1998use",
+    "title": "The use of renaming in composing general programs",
+    "year": "1998",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Simone Contiero",
+      "Franco Turini"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1997unifying",
+    "title": "A unifying view for logic programming with non-monotonic reasoning",
+    "year": "1997",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Evelina Lamma",
+      "Paolo Mancarella",
+      "Paola Mello"
+    ],
+    "venue": "Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/S0304-3975(97)80755-4",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1997composing",
+    "title": "Composing general logic programs",
+    "year": "1997",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Simone Contiero",
+      "Franco Turini"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-63255-7_21",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1997modeling",
+    "title": "Modeling coordination via asynchronous communication",
+    "year": "1997",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Jean-Marie Jacquet"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-63383-9_84",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1997specialising",
+    "title": "Specialising meta-level compositions of logic programs",
+    "year": "1997",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Simone Contiero"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-62718-9_16",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1997logic",
+    "title": "The logic of totally and partially ordered plans: A deductive database approach",
+    "year": "1997",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "V.S. Subrahmanian",
+      "Carlo Zaniolo"
+    ],
+    "venue": "Annals of Mathematics and Artificial Intelligence",
+    "url": "https://doi.org/10.1023/a:1018995303452",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1996pruning",
+    "title": "Pruning the search space of logic programs",
+    "year": "1996",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Cosimo Guarino"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-60983-0_3",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1995abductive",
+    "title": "An abductive framework for extended logic programming",
+    "year": "1995",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Evelina Lamma",
+      "Paolo Mancarella",
+      "Paola Mello"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-59487-6_24",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1995fully",
+    "title": "Fully abstract compositional semantics for an algebra of logic programs",
+    "year": "1995",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Franco Turini"
+    ],
+    "venue": "Theoretical Computer Science",
+    "url": "https://doi.org/10.1016/0304-3975(95)00012-L",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1994gödel",
+    "title": "Gödel as a meta-language for composing logic programs",
+    "year": "1994",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Simone Contiero"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-58792-6_23",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1994implementations",
+    "title": "Implementations of program composition operations",
+    "year": "1994",
+    "month": 0,
+    "authors": [
+      "A. Brogi",
+      "A. Chiarelli",
+      "P. Mancarella",
+      "V. Mazzotta",
+      "D. Pedreschi",
+      "C. Renso",
+      "F. Turini"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-58402-1_21",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1994modular",
+    "title": "Modular Logic Programming",
+    "year": "1994",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Paolo Mancarella",
+      "Dino Pedreschi",
+      "Franco Turini"
+    ],
+    "venue": "ACM Transactions on Programming Languages and Systems (TOPLAS)",
+    "url": "https://doi.org/10.1145/183432.183528",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1994semantics",
+    "title": "Semantics of meta-logic in an algebra of programs",
+    "year": "1994",
+    "month": 0,
+    "authors": [
+      "A. Brogi",
+      "F. Turini"
+    ],
+    "venue": "Proceedings - Symposium on Logic in Computer Science",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "brogi1993composing",
+    "title": "Composing open logic programs",
+    "year": "1993",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Evelina Lamma",
+      "Paola Mello"
+    ],
+    "venue": "Journal of Logic and Computation",
+    "url": "https://doi.org/10.1093/logcom/3.4.417",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1993metalogic",
+    "title": "Metalogic for state oriented programming",
+    "year": "1993",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Franco Turini"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-56454-3_10",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1992compositional",
+    "title": "Compositional model-theoretic semantics for logic programs",
+    "year": "1992",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Evelina Lamma",
+      "Paola Mello"
+    ],
+    "venue": "New Generation Computing",
+    "url": "https://doi.org/10.1007/BF03037525",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1992meta",
+    "title": "Meta for modularising logic programming",
+    "year": "1992",
+    "month": 0,
+    "authors": [
+      "A. Brogi",
+      "P. Mancarella",
+      "D. Pedreschi",
+      "F. Turini"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-56282-6_7",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1992objects",
+    "title": "Objects in a logic programming framework",
+    "year": "1992",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Evelina Lamma",
+      "Paola Mello"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-55460-2_8",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1992open",
+    "title": "Open logic theories",
+    "year": "1992",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Evelina Lamina",
+      "Paola Mello"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/bfb0013604",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1992implementation",
+    "title": "The implementation of a distribution model for logic programming based on multiple-headed clauses",
+    "year": "1992",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Anna Ciampolini",
+      "Evelina Lamma",
+      "Paolo Mello"
+    ],
+    "venue": "Information Processing Letters",
+    "url": "https://doi.org/10.1016/0020-0190(92)90232-K",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1991distributed",
+    "title": "A distributed implementation for parallel logic programming",
+    "year": "1991",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Anna Ciampolini",
+      "Evelina Lamma",
+      "Paola Mello"
+    ],
+    "venue": "Proceedings, Advanced Computer Technology, Reliable Systems and Applications",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "brogi1991abductive",
+    "title": "Abductive reasoning in a multi-theory framework",
+    "year": "1991",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Evelina Lamma",
+      "Paolo Mancarella",
+      "Paola Mello"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-54712-6_226",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1991constraints",
+    "title": "Constraints for synchronizing coarse-grained sequential logic processes",
+    "year": "1991",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Maurizio Gabbrielli"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-54444-5_116",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1991metalogic",
+    "title": "Metalogic for Knowledge Representation",
+    "year": "1991",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Franco Turini"
+    ],
+    "venue": "Proceedings of the International Conference on Knowledge Representation and Reasoning",
+    "url": "",
+    "type": "conference"
+  },
+  {
+    "key": "brogi1991concurrent",
+    "title": "The Concurrent Language, Shared Prolog",
+    "year": "1991",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Paolo Ciancarini"
+    ],
+    "venue": "ACM Transactions on Programming Languages and Systems (TOPLAS)",
+    "url": "https://doi.org/10.1145/114005.102807",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1990hypothetical",
+    "title": "Hypothetical reasoning in logic programming: a semantic approach",
+    "year": "1990",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Evelina Lamma",
+      "Paula Mello"
+    ],
+    "venue": "Information Processing Letters",
+    "url": "https://doi.org/10.1016/0020-0190(90)90040-5",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1990logic",
+    "title": "Logic programming within a functional framework",
+    "year": "1990",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Paolo Mancarella",
+      "Dino Pedreschi",
+      "Franco Turini"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/bfb0024196",
+    "type": "journal"
+  },
+  {
+    "key": "brogi1989distributed",
+    "title": "A distributed, net oriented semantics for Delta Prolog",
+    "year": "1989",
+    "month": 0,
+    "authors": [
+      "Antonio Brogi",
+      "Roberto Gorrieri"
+    ],
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "url": "https://doi.org/10.1007/3-540-50939-9_131",
+    "type": "journal"
+  }
+]

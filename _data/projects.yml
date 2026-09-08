@@ -1,0 +1,29 @@
+- id: liscio
+  title: LiSCIo
+  year: 2020
+  summary: Lightweight Self-adaptive Cloud-IoT Monitoring across Fed4FIRE+ Testbeds.
+  url: https://www.fed4fire.eu/demo-stories/oc8/liscio/
+  image: projects/liscio-featured.png
+- id: amaca
+  title: AMaCA
+  year: 2018
+  summary: Automating the management of composite applications.
+  url: https://di-unipi-socc.github.io/AMaCA/
+  image: projects/amaca-featured.png
+- id: through-the-fog
+  title: Through the Fog
+  year: 2016
+  summary: Deploying, programming and supporting fog computing applications.
+  url: http://pages.di.unipi.it/throughthefog/
+  image: projects/through-the-fog-featured.png
+- id: seaclouds
+  title: SeaClouds
+  year: 2015
+  summary: Seamless adaptive multi-cloud management of service-based applications.
+  url: http://seaclouds-project.eu/
+  image: projects/seaclouds-featured.png
+- id: osmware
+  title: OSMWARE
+  year: 2022
+  summary: hOlistic Sustainable Management of distributed softWARE systems.
+  image: projects/osmware-featured.png

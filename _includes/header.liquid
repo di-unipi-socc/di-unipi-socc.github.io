@@ -1,0 +1,19 @@
+<header id="top" class="sticky top-0 z-50">
+  <div class="nav-unipi">
+    <div class="container mx-auto flex h-20 items-center justify-between px-4">
+      <a href="https://www.unipi.it/en/" target="_blank" rel="noopener noreferrer">{% include partials/themed-picture.liquid alt="University of Pisa" class="header-picture" %}</a>
+      <div class="flex items-center gap-4 lg:mr-2">
+        <nav class="hidden items-center gap-5 text-sm lg:flex">{% for item in site.data.navigation %}<a href="{{ item.url | relative_url }}"><span class="nav-link">{{ item.label }}</span></a>{% endfor %}</nav>
+        <div class="nav-actions"><button type="button" class="nav-action" data-theme-toggle aria-label="Change colour theme" title="Change colour theme"><i class="bi bi-circle-half text-base" data-theme-icon></i></button></div>
+        <button type="button" class="inline-flex cursor-pointer items-center justify-center rounded-md p-2 text-unipi-ink-700 transition-colors hover:text-unipi-blue-500 lg:hidden dark:text-unipi-muted dark:hover:text-unipi-link-hover" data-nav-toggle aria-label="Open navigation"><i class="bi bi-list text-2xl"></i></button>
+      </div>
+    </div>
+    <div class="hidden border-t border-unipi-ink-200 bg-white lg:hidden dark:border-unipi-line dark:bg-unipi-night-950" data-nav-menu><nav class="container mx-auto flex flex-col gap-2 px-4 py-2 text-sm">{% for item in site.data.navigation %}<a href="{{ item.url | relative_url }}" class="nav-link mobile">{{ item.label }}</a>{% endfor %}</nav></div>
+  </div>
+</header>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelector('[data-nav-toggle]')?.addEventListener('click', () => document.querySelector('[data-nav-menu]').classList.toggle('hidden'));
+    document.querySelector('[data-theme-toggle]')?.addEventListener('click', window.cycleSiteTheme);
+  });
+</script>

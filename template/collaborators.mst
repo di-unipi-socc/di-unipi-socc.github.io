@@ -1,7 +1,0 @@
-<div class="row">
-  {{#collaborators}}
-  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-  <b>{{name}} {{SURNAME}}</b>, since {{from}} {{#to}}to {{to}}{{/to}}
-  </div>
-  {{/collaborators}}
-</div>
