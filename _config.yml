@@ -1,7 +1,7 @@
 title: "SOCC Research Group"
 description: "Service-Oriented, Cloud and Fog Computing Research Group at the University of Pisa."
-url: ""
-baseurl: ""
+url: "https://di-unipi-socc.github.io"
+baseurl: "/"
 markdown: kramdown
 pub_source: bib
 pub_json: /assets/publications.json
@@ -12,4 +12,3 @@ exclude:
   - Makefile
   - README.md
   - LICENSE.md
-  - content/publication
