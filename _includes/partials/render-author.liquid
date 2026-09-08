@@ -1,0 +1,2 @@
+{% assign person = include.id | author %}
+{% if person.homepage %}<a href="{{ person.homepage }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}

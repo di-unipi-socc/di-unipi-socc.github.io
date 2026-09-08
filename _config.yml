@@ -1,0 +1,15 @@
+title: "SOCC Research Group"
+description: "Service-Oriented, Cloud and Fog Computing Research Group at the University of Pisa."
+url: ""
+baseurl: ""
+markdown: kramdown
+pub_source: bib
+pub_json: /assets/publications.json
+exclude:
+  - package.json
+  - package-lock.json
+  - node_modules/
+  - Makefile
+  - README.md
+  - LICENSE.md
+  - content/publication

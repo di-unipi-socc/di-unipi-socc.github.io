@@ -1,161 +1,79 @@
+---
+layout: default
+title: SOCC Research Group
+---
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="">
-  <meta name="author" content="">
-
-  <title>SOCC</title>
-
-  <!-- CSS -->
-  <link href="css/bootstrap.css" rel="stylesheet">
-  <link href="css/scrolling-nav.css" rel="stylesheet">
-  <link href="css/socc.css" rel="stylesheet">
-
-  <!-- Customised font -->
-  <link href="https://fonts.googleapis.com/css?family=Crete+Round" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Crete Round', serif;
-      font-size: 20px;
-    }
-  </style>
-</head>
-
-<!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
-
-<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-
-  <!-- Navigation -->
-  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container">
-      <div class="navbar-header page-scroll">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-        </button>
-      </div>
-
-      <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse navbar-ex1-collapse">
-        <ul class="nav navbar-nav">
-          <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-          <li>
-            <a class="page-scroll" href="#intro">SOCC</a>
-          </li>
-          <!--
-            <li>
-              <a class="page-scroll" href="#people">MEMBERS</a>
-            </li>
-            <li>
-              <a class="page-scroll" href="#projects">RESEARCH PROJECTS</a>
-            </li>
-            <li>
-              <a class="page-scroll" href="#prototypes">PROTOTYPES</a>
-            </li>
-          -->
-          <!--
-		  <li id="see-also-nav" class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">SEE ALSO<span class="caret"></span></a>
-            <ul class="dropdown-menu" role="menu">
-              <li><a href="seminars/socc2017phd.html" target="_blank">PhD seminars "SOCC"</a></li>
-            </ul>
-          </li>
-		  -->
-        </ul>
-      </div>
-      <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container -->
-  </nav>
-
-  <!-- Intro Section -->
-  <section id="intro" class="scrolling-white-section">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <img src="img/socc-logo.png" class="logo" />
-          <p>
-            <b>Service-Oriented, Cloud and Fog Computing</b> research group
-            <br>
-            <a href="https://www.di.unipi.it" target="_blank">Department of Computer Science</a>,
-            <a href="https://www.unipi.it" target="_blank">University of Pisa</a>
-          </p>
-          <a href="https://github.com/di-unipi-socc" target="_blank" class="btn btn-default btn-socc">GitHub</a>
-          <a href="https://www.researchgate.net/lab/Service-Oriented-Cloud-and-Fog-Computing-Research-Group-SOCC-Antonio-Brogi" target="_blank" class="btn btn-default btn-socc">ResearchGate</a>
-          <a href="https://www.youtube.com/channel/UC6Kzupom8lpBc7dO-wcXp_g" target="_blank" class="btn btn-default btn-socc">YouTube</a>
-        </div>
+<section class="section-unipi py-10 md:py-16">
+  <div
+    class="card-unipi grid items-center gap-8 p-6 md:grid-cols-[1fr_auto] md:p-10"
+  >
+    <div>
+      <p
+        class="text-sm font-semibold tracking-wide text-unipi-blue-600 dark:text-unipi-link"
+      >
+        University of Pisa - Department of Computer Science
+      </p>
+      <h1 class="mt-2">
+        Service-Oriented, Cloud and Fog Computing Research Group
+      </h1>
+      <p class="author-bio mt-4 max-w-3xl">
+        SOCC studies service-oriented, cloud, fog, edge and IoT computing, with
+        a focus on the engineering and management of distributed applications.
+      </p>
+      <div class="mt-6 flex flex-wrap gap-3">
+        <a
+          class="badge-unipi px-5 py-2 text-base"
+          href="{{ '/research-projects/' | relative_url }}"
+          ><i class="bi bi-diagram-3 mr-2"></i>Research projects</a
+        ><a
+          class="badge-ghost px-5 py-2 text-base"
+          href="{{ '/publications/' | relative_url }}"
+          ><i class="bi bi-journal-text mr-2"></i>Publications</a
+        >
       </div>
     </div>
-  </section>
+    <img
+      src="{{ '/assets/media/brand/icon.png' | relative_url }}"
+      alt="SOCC logo"
+      class="author-avatar mx-auto size-36 border-0 md:size-44"
+    />
+  </div>
+</section>
 
-  <!-- People Section -->
-  
-  <!--
-  <section id="people" class="scrolling-gray-section">
-    <div class="container">
-      <div class="row">
-        <h1>MEMBERS</h1>
-      </div>
-        <div id="members-content"></div>
-      <br />
-      <div class="row">
-        <h3>COLLABORATORS / ALUMNI</h3>
-      </div>
-      <div id="collaborators-content"></div>
+<section class="section-unipi" id="people">
+  <div class="section-title-unipi">
+    <i class="bi bi-people-fill"></i>
+    <h2>People</h2>
+    <div class="divider"></div>
+  </div>
+  {% include components/section-tabs.liquid base="people" scope="people"
+  tabs=site.data.ui.people.tabs data=site.data.authors %}
+</section>
+
+<section class="section-unipi" id="contact">
+  <div class="section-title-unipi">
+    <i class="bi bi-geo-alt-fill"></i>
+    <h2>Contact</h2>
+    <div class="divider"></div>
+  </div>
+  <div class="grid gap-6 md:grid-cols-2">
+    <div class="card-unipi contacts-unipi">
+      <h3>{{ site.data.contacts.visit.title }}</h3>
+      <p>
+        <i class="bi bi-building"></i>{{ site.data.contacts.visit.department }}
+      </p>
+      <p><i class="bi bi-geo-alt"></i>{{ site.data.contacts.visit.address }}</p>
     </div>
-  </section>
-  -->
-
-  <!-- Projects Section -->
-  <!--
-  <section id="projects" class="scrolling-white-section">
-    <div class="container">
-		<div class="row">
-			<h1>RESEARCH PROJECTS</h1>
-		</div>
-        <div id="projects-content"></div>
+    <div class="card-unipi contacts-unipi">
+      <h3>{{ site.data.contacts.links.title }}</h3>
+      {% for link in site.data.contacts.links.items %}
+      <p>
+        <a href="{{ link.url }}" target="_blank" rel="noopener"
+          >{% if link.icon %}<i class="{{ link.icon }} mr-1.5"></i>{% endif %}{{
+          link.label }}</a
+        >
+      </p>
+      {% endfor %}
     </div>
-  </section>
-  -->
-  
-  <!-- Prototypes Section -->
-  <!--
-  <section id="prototypes" class="scrolling-gray-section">
-    <div class="container">
-		<div class="row">
-			<h1>PROTOTYPES</h1>
-		</div>
-        <div id="prototypes-content"></div>
-    </div>
-  </section>
-  -->
-
-  <!-- jQuery -->
-  <script src="js/lib/jquery.js"></script>
-
-  <!-- Bootstrap Core JavaScript -->
-  <script src="js/lib/bootstrap.min.js"></script>
-
-  <!-- Mustache -->
-  <script src="js/lib/mustache.min.js"></script>
-
-  <!-- Scrolling Nav JavaScript -->
-  <script src="js/lib/jquery.easing.min.js"></script>
-  <script src="js/lib/scrolling-nav.js"></script>
-
-  <!-- SOCC page script -->
-  <!--
-    <script src="js/socc.js"></script>
-  -->
-
-</body>
-
-</html>
+  </div>
+</section>

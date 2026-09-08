@@ -1,0 +1,44 @@
+---
+layout: default
+title: Research projects · SOCC
+description: Research projects from the SOCC Research Group.
+permalink: /research-projects/
+---
+
+<section class="section-unipi py-8">
+  <div class="section-title-unipi">
+    <i class="bi bi-diagram-3-fill"></i>
+    <h2>Research projects</h2>
+    <div class="divider"></div>
+  </div>
+  <p class="mb-6 text-sm text-unipi-ink-600 dark:text-unipi-subtle">
+    Current and past research projects from the group.
+  </p>
+  <div class="grid gap-4 xl:grid-cols-2">
+    {% for project in site.data.projects %}
+    <article class="card-unipi sub-card-unipi flex flex-col">
+      <div class="flex items-center gap-3">
+        <img
+          src="{{ '/assets/media/' | append: project.image | relative_url }}"
+          alt="{{ project.title }}"
+          class="card-picture"
+        />
+        <div class="flex-1">
+          <div class="flex justify-between gap-3">
+            <h3 class="text-sm">{{ project.title }}</h3>
+            <span class="date">{{ project.year }}</span>
+          </div>
+          <p class="summary mt-2">{{ project.summary }}</p>
+          {% if project.url %}<a
+            class="badge-unipi mt-3 inline-block"
+            href="{{ project.url }}"
+            target="_blank"
+            rel="noopener"
+            >Project website</a
+          >{% endif %}
+        </div>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</section>

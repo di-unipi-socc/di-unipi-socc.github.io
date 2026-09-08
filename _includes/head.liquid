@@ -1,0 +1,36 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/font-unipi.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/bootstrap-icons.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+  <script>window.siteText = {{ site.data.ui | jsonify }};</script>
+  <script>
+    (() => {
+      const modes = ['auto', 'light', 'dark'];
+      const icons = { auto: 'bi-circle-half', light: 'bi-sun', dark: 'bi-moon-stars' };
+      const stored = () => modes.includes(localStorage.getItem('theme')) ? localStorage.getItem('theme') : 'auto';
+      const apply = (mode) => {
+        const safeMode = modes.includes(mode) ? mode : 'auto';
+        const dark = safeMode === 'dark' || (safeMode === 'auto' && matchMedia('(prefers-color-scheme: dark)').matches);
+        document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+        document.documentElement.dataset.themeMode = safeMode;
+        document.querySelectorAll('[data-light-src]').forEach((image) => image.src = dark ? image.dataset.darkSrc : image.dataset.lightSrc);
+        document.querySelectorAll('[data-theme-toggle]').forEach((button) => {
+          button.setAttribute('aria-label', `Change colour theme: ${safeMode}`);
+          button.setAttribute('title', `Change colour theme: ${safeMode}`);
+          const icon = button.querySelector('[data-theme-icon]');
+          if (icon) icon.className = `bi ${icons[safeMode]} text-base`;
+        });
+      };
+      window.setSiteTheme = (mode) => { localStorage.setItem('theme', mode); apply(mode); };
+      window.cycleSiteTheme = () => { const current = stored(); window.setSiteTheme(modes[(modes.indexOf(current) + 1) % modes.length]); };
+      apply(stored());
+      matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (stored() === 'auto') apply('auto'); });
+      document.addEventListener('DOMContentLoaded', () => apply(stored()));
+    })();
+  </script>
+</head>

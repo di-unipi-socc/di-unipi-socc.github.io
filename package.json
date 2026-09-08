@@ -1,0 +1,18 @@
+{
+  "name": "socc-research-group",
+  "private": true,
+  "description": "SOCC Research Group website built with Jekyll and Tailwind CSS.",
+  "dependencies": {
+    "@shopify/prettier-plugin-liquid": "^1.10.3",
+    "@tailwindcss/cli": "^4.3.0",
+    "prettier": "^3.8.4",
+    "prettier-plugin-tailwindcss": "^0.8.0",
+    "tailwind-scrollbar": "^4.0.2",
+    "tailwindcss": "^4.3.0"
+  },
+  "scripts": {
+    "publications": "node _scripts/bib_to_json.js",
+    "format": "prettier --write \"**/*.{html,md,js,css}\"",
+    "format:yaml": "prettier --write \"_data/**/*.{yml,yaml}\""
+  }
+}

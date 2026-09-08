@@ -1,0 +1,34 @@
+people:
+  tabs:
+    - id: faculty
+      label: Faculty
+      group: Faculty
+      icon: bi bi-person-workspace
+    - id: researchers
+      label: Researchers
+      group: Researchers
+      icon: bi bi-person-badge
+    - id: students
+      label: Students
+      group: Students
+      icon: bi bi-mortarboard
+    - id: alumni
+      label: Alumni
+      group: Alumni
+      icon: bi bi-people
+publications:
+  search: Search title, author, venue, or year
+  all_years: All years
+  all_types: All types
+  clear: Clear
+  stats: Showing
+  all: All
+  categories:
+    journal: Journal articles
+    conference: Conference papers
+    books: Books and theses
+    collection: Book chapters
+    editorship: Edited volumes
+    reference: Reference works
+    data: Data sets
+    informal: Other publications
