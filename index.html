@@ -4,30 +4,20 @@ title: SOCC Research Group
 ---
 
 <section class="section-unipi py-10 md:py-16">
-  <div
-    class="card-unipi grid items-center gap-8 p-6 md:grid-cols-[1fr_auto] md:p-10"
-  >
+  <div class="card-unipi grid items-center gap-8 p-6 md:grid-cols-[1fr_auto] md:p-10">
     <div>
-      <p
-        class="text-sm font-semibold tracking-wide text-unipi-blue-600 dark:text-unipi-link"
-      >
+      <p class="text-sm font-semibold tracking-wide text-unipi-blue-600 dark:text-unipi-link">
         University of Pisa - Department of Computer Science
       </p>
-      <h1 class="mt-2">
-        Service-Oriented, Cloud and Fog Computing Research Group
-      </h1>
+      <h1 class="mt-2">Service-Oriented, Cloud and Fog Computing Research Group</h1>
       <p class="author-bio mt-4 max-w-3xl">
-        SOCC studies service-oriented, cloud, fog, edge and IoT computing, with
-        a focus on the engineering and management of distributed applications.
+        SOCC studies service-oriented, cloud, fog, edge and IoT computing, with a focus on the
+        engineering and management of distributed applications.
       </p>
       <div class="mt-6 flex flex-wrap gap-3">
-        <a
-          class="badge-unipi px-5 py-2 text-base"
-          href="{{ '/research-projects/' | relative_url }}"
+        <a class="badge-unipi px-5 py-2 text-sm" href="{{ '/research-projects/' | relative_url }}"
           ><i class="bi bi-diagram-3 mr-2"></i>Research projects</a
-        ><a
-          class="badge-ghost px-5 py-2 text-base"
-          href="{{ '/publications/' | relative_url }}"
+        ><a class="badge-ghost px-5 py-2 text-sm" href="{{ '/publications/' | relative_url }}"
           ><i class="bi bi-journal-text mr-2"></i>Publications</a
         >
       </div>
@@ -35,8 +25,7 @@ title: SOCC Research Group
     <img
       src="{{ '/assets/media/brand/icon.png' | relative_url }}"
       alt="SOCC logo"
-      class="author-avatar mx-auto size-36 border-0 md:size-44"
-    />
+      class="author-avatar mx-auto size-36 border-0 md:size-44" />
   </div>
 </section>
 
@@ -59,9 +48,7 @@ title: SOCC Research Group
   <div class="grid gap-6 md:grid-cols-2">
     <div class="card-unipi contacts-unipi">
       <h3>{{ site.data.contacts.visit.title }}</h3>
-      <p>
-        <i class="bi bi-building"></i>{{ site.data.contacts.visit.department }}
-      </p>
+      <p><i class="bi bi-building"></i>{{ site.data.contacts.visit.department }}</p>
       <p><i class="bi bi-geo-alt"></i>{{ site.data.contacts.visit.address }}</p>
     </div>
     <div class="card-unipi contacts-unipi">
@@ -69,8 +56,7 @@ title: SOCC Research Group
       {% for link in site.data.contacts.links.items %}
       <p>
         <a href="{{ link.url }}" target="_blank" rel="noopener"
-          >{% if link.icon %}<i class="{{ link.icon }} mr-1.5"></i>{% endif %}{{
-          link.label }}</a
+          >{% if link.icon %}<i class="{{ link.icon }} mr-1.5"></i>{% endif %}{{ link.label }}</a
         >
       </p>
       {% endfor %}
