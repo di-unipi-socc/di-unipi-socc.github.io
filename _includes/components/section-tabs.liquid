@@ -1,10 +1,45 @@
 <div class="{% unless include.nested %}card-unipi {% endunless %}card-unipi-tabs" data-tabs-root="{{ include.scope | default: include.base }}">
   <div class="tab-strip flex items-center gap-2">
-    <button type="button" class="chevron" data-tabs-scroll="chevron-left"><i class="bi bi-chevron-left"></i></button>
-    <div class="flex-1 overflow-x-auto overscroll-x-contain scrollbar-none" data-tabs-scroll-container><div class="flex flex-nowrap gap-6 text-sm" role="tablist" data-tabs-strip>{% for tab in include.tabs %}<button type="button" class="{{ include.scope | default: include.base }}-tab" data-tab="{{ tab.id }}" role="tab">{% if tab.icon %}<i class="{{ tab.icon }} text-base"></i>{% endif %}<span>{{ tab.label }}</span></button>{% endfor %}</div></div>
-    <button type="button" class="chevron" data-tabs-scroll="chevron-right"><i class="bi bi-chevron-right"></i></button>
+    <button
+      type="button"
+      class="chevron"
+      data-tabs-scroll="chevron-left">
+      <i class="bi bi-chevron-left"></i>
+    </button>
+    <div class="flex-1 overflow-x-auto overscroll-x-contain scrollbar-none" data-tabs-scroll-container>
+      <div
+        class="flex flex-nowrap gap-6 text-sm"
+        role="tablist"
+        data-tabs-strip>
+        {% for tab in include.tabs %}
+          <button
+            type="button"
+            class="{{ include.scope | default: include.base }}-tab"
+            data-tab="{{ tab.id }}"
+            role="tab">
+            {% if tab.icon %}
+              <i class="{{ tab.icon }} text-base"></i>
+            {% endif %}
+            <span>{{ tab.label }}</span>
+          </button>
+        {% endfor %}
+      </div>
+    </div>
+    <button
+      type="button"
+      class="chevron"
+      data-tabs-scroll="chevron-right">
+      <i class="bi bi-chevron-right"></i>
+    </button>
   </div>
-  <div class="panels">{% for tab in include.tabs %}<div class="{{ include.scope | default: include.base }}-panel hidden" data-tab-panel="{{ tab.id }}" role="tabpanel">{% assign tab_data = include.data | where: 'group', tab.group %}{% assign tab_template = tab.template | default: include.template | default: 'components/cards' | append: '.liquid' %}{% include {{ tab_template }} data=tab_data tab=tab section=include.base %}</div>{% endfor %}</div>
+  <div class="panels">
+    {% for tab in include.tabs %}
+      <div
+        class="{{ include.scope | default: include.base }}-panel hidden"
+        data-tab-panel="{{ tab.id }}"
+        role="tabpanel">{% assign tab_data = include.data | where: 'group', tab.id %}{% assign tab_template = tab.template | default: include.template | default: 'components/cards' | append: '.liquid' %}{% include {{ tab_template }} data=tab_data tab=tab section=include.base %}</div>
+    {% endfor %}
+  </div>
 </div>
 <script>
   document.addEventListener('DOMContentLoaded', () => {

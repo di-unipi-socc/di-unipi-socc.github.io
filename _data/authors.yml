@@ -1,40 +1,40 @@
 - id: antonio-brogi
   name: Antonio Brogi
   role: Full Professor
-  group: Faculty
+  group: faculty
   homepage: https://pages.di.unipi.it/brogi/
 
 - id: stefano-forti
   name: Stefano Forti
   role: Assistant Professor
-  group: Faculty
+  group: faculty
   homepage: https://pages.di.unipi.it/forti/
 
 - id: jacopo-soldani
   name: Jacopo Soldani
   role: Assistant Professor
-  group: Faculty
+  group: faculty
   homepage: https://pages.di.unipi.it/soldani/
 
 - id: ahmad-ibrahim
   name: Ahmad Ibrahim
   role: Post-doc Researcher
-  group: Researchers
+  group: researchers
 
 - id: davide-neri
   name: Davide Neri
   role: Post-Doc Researcher
-  group: Researchers
+  group: researchers
 
 - id: francisco-ponce
   name: Francisco Ponce
   role: Research Fellow
-  group: Alumni
+  group: alumni
 
 - id: jacopo-massa
   name: Jacopo Massa
   role: Research Fellow
-  group: Researchers
+  group: researchers
   homepage: https://pages.di.unipi.it/massa
   github: https://github.com/jacopo-massa
   scholar: https://scholar.google.com/citations?user=tuUxuWUAAAAJ
@@ -43,40 +43,40 @@
 - id: alessandro-bocci
   name: Alessandro Bocci
   role: Research Fellow
-  group: Researchers
+  group: researchers
 
 - id: andrea-canciani
   name: Andrea Canciani
   role: PhD Student
-  group: Alumni
+  group: alumni
 
 - id: giuseppe-bisicchia
   name: Giuseppe Bisicchia
   role: Research Fellow
-  group: Researchers
+  group: researchers
 
 - id: luca-rinaldi
   name: Luca Rinaldi
   role: PhD Student
-  group: Alumni
+  group: alumni
 
 - id: marco-gaglianese
   name: Marco Gaglianese
   role: PhD Student
-  group: Alumni
+  group: alumni
 
 - id: ornela-danushi
   name: Ornela Danushi
   role: PhD Student
-  group: Students
+  group: students
 
 - id: marc-orioi
   name: Marc Orioi
   role: Collaborator
-  group: Alumni
+  group: alumni
 
 - id: michela-fazzolari
   name: Michela Fazzolari
   role: Post-Doc Researcher
-  group: Alumni
+  group: alumni
   homepage: https://www.linkedin.com/in/michelafazzolari

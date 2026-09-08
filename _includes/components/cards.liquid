@@ -17,7 +17,8 @@
                 href="{{ person.homepage }}"
                 target="_blank"
                 rel="noopener">
-                <i class="bi bi-house"></i>Homepage</a>
+                <i class="{{ site.data.ui.people.links.homepage.icon }}"></i>
+                {{ site.data.ui.people.links.homepage.label }}</a>
             {% endif %}
             {% if person.github %}
               <a
@@ -25,7 +26,8 @@
                 href="{{ person.github }}"
                 target="_blank"
                 rel="noopener">
-                <i class="bi bi-github"></i>GitHub</a>
+                <i class="{{ site.data.ui.people.links.github.icon }}"></i>
+                {{ site.data.ui.people.links.github.label }}</a>
             {% endif %}
             {% if person.scholar %}
               <a
@@ -33,7 +35,8 @@
                 href="{{ person.scholar }}"
                 target="_blank"
                 rel="noopener">
-                <i class="ai ai-google-scholar"></i>Scholar</a>
+                <i class="{{ site.data.ui.people.links.scholar.icon }}"></i>
+                {{ site.data.ui.people.links.scholar.label }}</a>
             {% endif %}
             {% if person.orcid %}
               <a
@@ -41,7 +44,8 @@
                 href="{{ person.orcid }}"
                 target="_blank"
                 rel="noopener">
-                <i class="ai ai-orcid"></i>ORCID</a>
+                <i class="{{ site.data.ui.people.links.orcid.icon }}"></i>
+                {{ site.data.ui.people.links.orcid.label }}</a>
             {% endif %}
             {% for link in person.links %}
               <a
@@ -52,7 +56,7 @@
                 {% if link.icon %}
                   <i class="{{ link.icon }}"></i>
                 {% else %}
-                  <i class="bi bi-link-45deg"></i>
+                  <i class="{{ site.data.ui.people.links.default.icon }}"></i>
                 {% endif %}
                 {{ link.label }}</a>
             {% endfor %}

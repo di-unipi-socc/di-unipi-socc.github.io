@@ -154,7 +154,7 @@
   }
 
   .sub-card-unipi:not(.research-interests) {
-    @apply motion-safe:transition-[transform,box-shadow] motion-safe:duration-200 motion-safe:hover:-translate-y-1 motion-safe:hover:shadow-md motion-safe:focus-within:-translate-y-1 motion-safe:focus-within:shadow-md;
+    @apply motion-safe:transition-[transform,box-shadow] motion-safe:duration-200 motion-safe:hover:-translate-y-0.5 motion-safe:hover:shadow-md motion-safe:focus-within:-translate-y-0.5 motion-safe:focus-within:shadow-md;
   }
 
   .timeline-unipi {

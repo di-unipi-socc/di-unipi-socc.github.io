@@ -1,20 +1,31 @@
 people:
+  links:
+    homepage:
+      label: Home
+      icon: bi bi-house
+    github:
+      label: GitHub
+      icon: bi bi-github
+    scholar:
+      label: Google Scholar
+      icon: ai ai-google-scholar
+    orcid:
+      label: ORCID
+      icon: ai ai-orcid
+    other:
+      icon: bi bi-link-45deg
   tabs:
     - id: faculty
       label: Faculty
-      group: Faculty
       icon: bi bi-person-workspace
     - id: researchers
       label: Researchers
-      group: Researchers
       icon: bi bi-person-badge
     - id: students
       label: Students
-      group: Students
       icon: bi bi-mortarboard
     - id: alumni
       label: Alumni
-      group: Alumni
       icon: bi bi-people
 publications:
   search: Search title, author, venue, or year
