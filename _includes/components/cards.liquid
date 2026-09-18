@@ -23,7 +23,7 @@
             {% if person.github %}
               <a
                 class="badge-ghost"
-                href="{{ person.github }}"
+                href="{{ site.data.ui.people.links.github.prefix }}{{ person.github }}"
                 target="_blank"
                 rel="noopener">
                 <i class="{{ site.data.ui.people.links.github.icon }}"></i>
@@ -32,7 +32,7 @@
             {% if person.scholar %}
               <a
                 class="badge-ghost"
-                href="{{ person.scholar }}"
+                href="{{ site.data.ui.people.links.scholar.prefix }}{{ person.scholar }}"
                 target="_blank"
                 rel="noopener">
                 <i class="{{ site.data.ui.people.links.scholar.icon }}"></i>
@@ -41,7 +41,7 @@
             {% if person.orcid %}
               <a
                 class="badge-ghost"
-                href="{{ person.orcid }}"
+                href="{{ site.data.ui.people.links.orcid.prefix }}{{ person.orcid }}"
                 target="_blank"
                 rel="noopener">
                 <i class="{{ site.data.ui.people.links.orcid.icon }}"></i>

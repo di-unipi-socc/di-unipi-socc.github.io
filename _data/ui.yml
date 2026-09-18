@@ -4,12 +4,15 @@ people:
       label: Home
       icon: bi bi-house
     github:
+      prefix: https://github.com/
       label: GitHub
       icon: bi bi-github
     scholar:
+      prefix: https://scholar.google.com/citations?user=
       label: Google Scholar
       icon: ai ai-google-scholar
     orcid:
+      prefix: https://orcid.org/
       label: ORCID
       icon: ai ai-orcid
     other:

@@ -3,27 +3,35 @@
   role: Full Professor
   group: faculty
   homepage: https://pages.di.unipi.it/brogi/
-
-- id: stefano-forti
-  name: Stefano Forti
-  role: Assistant Professor
-  group: faculty
-  homepage: https://pages.di.unipi.it/forti/
+  scholar: lOFQGacAAAAJ
+  orcid: 0000-0003-2048-2468
 
 - id: jacopo-soldani
   name: Jacopo Soldani
   role: Assistant Professor
   group: faculty
   homepage: https://pages.di.unipi.it/soldani/
+  github: jsoldani
+  scholar: k4sVHoUAAAAJ
+  orcid: 0000-0002-2435-3543
+
+- id: stefano-forti
+  name: Stefano Forti
+  role: Assistant Professor
+  group: faculty
+  homepage: https://pages.di.unipi.it/forti/
+  github: teto1992
+  scholar: p9lysEAAAAAJ
+  orcid: 0000-0002-4159-8761
 
 - id: ahmad-ibrahim
   name: Ahmad Ibrahim
-  role: Post-doc Researcher
+  role: Research Fellow
   group: researchers
 
 - id: davide-neri
   name: Davide Neri
-  role: Post-Doc Researcher
+  role: Research Fellow
   group: researchers
 
 - id: francisco-ponce
@@ -36,14 +44,25 @@
   role: Research Fellow
   group: researchers
   homepage: https://pages.di.unipi.it/massa
-  github: https://github.com/jacopo-massa
-  scholar: https://scholar.google.com/citations?user=tuUxuWUAAAAJ
-  orcid: https://orcid.org/0000-0002-5255-537X
+  github: jacopo-massa
+  scholar: tuUxuWUAAAAJ
+  orcid: 0000-0002-5255-537X
 
 - id: alessandro-bocci
   name: Alessandro Bocci
   role: Research Fellow
   group: researchers
+  github: alebocci
+  scholar: a6Cccr4AAAAJ
+  orcid: 0000-0002-7000-2103
+
+- id: ornela-danushi
+  name: Ornela Danushi
+  role: PhD Student
+  group: students
+  github: OrnelaDanushi
+  scholar: fB-AzFEAAAAJ
+  orcid: 0009-0009-3047-9378
 
 - id: andrea-canciani
   name: Andrea Canciani
@@ -65,11 +84,6 @@
   role: PhD Student
   group: alumni
 
-- id: ornela-danushi
-  name: Ornela Danushi
-  role: PhD Student
-  group: students
-
 - id: marc-orioi
   name: Marc Orioi
   role: Collaborator
@@ -77,6 +91,6 @@
 
 - id: michela-fazzolari
   name: Michela Fazzolari
-  role: Post-Doc Researcher
+  role: Research Fellow
   group: alumni
   homepage: https://www.linkedin.com/in/michelafazzolari
