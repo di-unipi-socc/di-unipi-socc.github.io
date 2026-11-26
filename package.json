@@ -8,7 +8,7 @@
     "prettier": "^3.8.4",
     "prettier-plugin-tailwindcss": "^0.8.0",
     "tailwind-scrollbar": "^4.0.2",
-    "tailwindcss": "^4.3.0"
+    "tailwindcss": "^4.3.5"
   },
   "scripts": {
     "publications": "node _scripts/bib_to_json.js",
