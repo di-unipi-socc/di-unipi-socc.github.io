@@ -4,7 +4,7 @@
   "description": "SOCC Research Group website built with Jekyll and Tailwind CSS.",
   "dependencies": {
     "@shopify/prettier-plugin-liquid": "^1.11.6",
-    "@tailwindcss/cli": "^4.3.0",
+    "@tailwindcss/cli": "^4.3.5",
     "prettier": "^3.10.1",
     "prettier-plugin-tailwindcss": "^0.8.0",
     "tailwind-scrollbar": "^4.0.2",
