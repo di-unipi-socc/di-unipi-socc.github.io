@@ -7,5 +7,5 @@ requires-python = ">=3.11"
 dependencies = [
     "academic>=0.8.1",
     "gitpython>=3.1.62",
-    "requests>=2.34.2",
+    "playwright>=1.49",
 ]

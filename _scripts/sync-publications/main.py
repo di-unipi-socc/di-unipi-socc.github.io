@@ -1,36 +1,39 @@
 #### MANUALLY CHANGE academic.templates.publication.md file, removing the default body
 import json
+import re
 import subprocess
-import sys
 from pathlib import Path
+from tempfile import TemporaryDirectory
 from time import sleep
 
-import requests
+from playwright.sync_api import BrowserContext, sync_playwright
 
 DBLP_URL = "https://dblp.org/pid/{pid}.bib"
 
-BIB_DIR = Path(__file__).parent / "bibs"
+SCRIPT_DIR = Path(__file__).parent
 
 
-def download_bib(user: dict[str, object], folder: str | Path = BIB_DIR):
+def download_bib(user: dict[str, object], context: BrowserContext, folder: str | Path):
 
     folder = Path(folder)
     folder.mkdir(parents=True, exist_ok=True)
 
-    r = requests.get(DBLP_URL.format(pid=user["pid"]))
-
-    if r.status_code == 200:
-        print(f"Downloaded bib file for {user['name']}")
-        bib = r.text
+    response = context.request.get(DBLP_URL.format(pid=user["pid"]), timeout=30_000)
+    try:
+        bib = response.text()
+        if response.status != 200 or not re.match(r"\s*@\w+\s*[{(]", bib):
+            raise RuntimeError(
+                f"DBLP did not return BibTeX for {user['name']} (HTTP {response.status}). "
+                "Complete the browser verification and rerun."
+            )
         bibpath = folder / f"{user['name']}.bib"
-        with open(bibpath, "w") as f:
-            f.write(bib)
-    else:
-        print(f"Error: {r.status_code}")
-        sys.exit(-1)
+        bibpath.write_text(bib, encoding="utf-8")
+        print(f"Downloaded bib file for {user['name']}")
+    finally:
+        response.dispose()
 
 
-def concat_bib_files(bib_files, folder: str | Path = BIB_DIR):
+def concat_bib_files(bib_files, folder: str | Path = SCRIPT_DIR):
 
     output_file = Path(folder) / "bibliography.bib"
     with output_file.open("w", encoding="utf-8") as tmp:
@@ -53,17 +56,32 @@ def main():
     subprocess.call(["npm", "install", "-g", "bibtex-tidy"])
 
     # Read the users from the json file 'members.json'
-    with open("members.json", "r") as f:
+    with (Path(__file__).parent / "members.json").open() as f:
         users = json.load(f)
 
-    # UNCOMMENT TO DOWNLOAD BIB FILES FROM DBLP
-    # for u in users:
-    #     download_bib(u)
-    #     sleep(2)  # Wait 2 seconds to avoid being blocked by DBLP
+    with TemporaryDirectory(
+        prefix="socc-publications-"
+    ) as tempdir, sync_playwright() as playwright:
+        context = playwright.chromium.launch_persistent_context(
+            str(Path(__file__).parent / ".browser-profile"), headless=False
+        )
+        try:
+            page = context.new_page()
+            page.goto("https://dblp.org/", wait_until="domcontentloaded")
+            print(
+                "Waiting for DBLP. Complete any verification in the browser (up to 2 minutes)."
+            )
+            page.wait_for_function(
+                "document.title.toLowerCase().startsWith('dblp:')", timeout=120_000
+            )
+            for u in users:
+                download_bib(u, context, tempdir)
+                sleep(2)  # Wait 2 seconds to avoid being blocked by DBLP
+        finally:
+            context.close()
 
-    # List of bib filepaths
-    bibfiles = [BIB_DIR / f"{u['name']}.bib" for u in users]
-    all_bib = concat_bib_files(bibfiles, folder=BIB_DIR)
+        bibfiles = [Path(tempdir) / f"{u['name']}.bib" for u in users]
+        all_bib = concat_bib_files(bibfiles)
     # Tidy the bib files
 
     subprocess.call(

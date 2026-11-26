@@ -150,6 +150,7 @@ npm-debug.log*
 # .vscode/
 
 # Custom
+_scripts/sync-publications/.browser-profile/
 *.DS_Store*
 .idea
 .vscode

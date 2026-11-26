@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const ROOT = path.resolve(__dirname, "..");
-const BIB_FILE = path.join(ROOT, "_scripts", "sync-publications", "bibs", "bibliography.bib");
+const BIB_FILE = path.join(ROOT, "_scripts", "sync-publications", "bibliography.bib");
 const OUTPUT_FILE = path.join(ROOT, "assets", "publications.json");
 
 function readBibFile() {
@@ -174,11 +174,22 @@ function skipDelimiter(text, index) {
 }
 
 function cleanValue(value) {
+  const accents = {
+    "'": "\u0301", "`": "\u0300", '"': "\u0308", "^": "\u0302",
+    "~": "\u0303", "=": "\u0304", ".": "\u0307", u: "\u0306",
+    v: "\u030c", H: "\u030b", c: "\u0327", k: "\u0328", r: "\u030a",
+  };
+  const letters = { i: "i", j: "j", o: "ø", O: "Ø", ss: "ß", ae: "æ", AE: "Æ", oe: "œ", OE: "Œ", l: "ł", L: "Ł" };
+
   return (value || "")
+    .replace(/\\(['`"^~=.uvHckr])\s*(?:\{(\\[ij]|[A-Za-z])\}|(\\[ij](?![A-Za-z])|[A-Za-z]))/g,
+      (_, accent, grouped, plain) => (grouped || plain).replace(/^\\/, "") + accents[accent])
+    .replace(/\\(ss|ae|AE|oe|OE|[ijoOlL])(?![A-Za-z])/g, (_, letter) => letters[letter])
     .replace(/[{}]/g, "")
-    .replace(/\\&/g, "&")
+    .replace(/\\([&_%#$])/g, "$1")
     .replace(/\s+/g, " ")
-    .trim();
+    .trim()
+    .normalize("NFC");
 }
 
 function parseAuthors(authorField) {
